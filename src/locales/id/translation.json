@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Fitur",
+    "testimonials": "Ulasan",
+    "download": "Unduh"
+  },
+  "hero": {
+    "headline": "Manajemen uang yang mudah untuk anggaran Anda",
+    "subheadline": "Kendalikan pengeluaran harian, rencanakan anggaran Anda, dan mulailah menabung. Jika Anda sering bertanya-tanya \"Ke mana perginya uang saya?\" di akhir bulan, Spendoa cocok untuk Anda.",
+    "cta": "Unduh Sekarang"
+  },
+  "features": {
+    "title": "Segala yang Anda butuhkan untuk mengatur uang Anda",
+    "subtitle": "Temukan alat canggih yang dirancang untuk memberi Anda kendali penuh atas kehidupan finansial Anda.",
+    "items": {
+      "ai": {
+        "title": "Asisten AI Spendoa",
+        "description": "Mengobrol with AI pribadi Anda untuk mendapatkan wawasan tentang pengeluaran dan tips menabung yang dipersonalisasi."
+      },
+      "receipts": {
+        "title": "Pemindaian Struk Cerdas",
+        "description": "Pindai struk Anda dengan AI dan isi detail pengeluaran Anda secara otomatis."
+      },
+      "goals": {
+        "title": "Target Tabungan",
+        "description": "Tetapkan target tabungan khusus dan pantau kemajuan Anda menuju kebebasan finansial secara visual."
+      },
+      "recurring": {
+        "title": "Transaksi Berulang",
+        "description": "Kelola langganan aktif dan tagihan bulanan rutin Anda dengan mudah di satu tempat."
+      },
+      "installments": {
+        "title": "Cicilan & Pinjaman",
+        "description": "Lacak pembelian cicilan, pinjaman, utang, dan piutang Anda tanpa hambatan."
+      },
+      "budgets": {
+        "title": "Anggaran Cerdas",
+        "description": "Buat anggaran berbasis kategori untuk melacak dan mengontrol pengeluaran bulanan Anda secara efektif."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Fitur unggulan",
+    "subtitle": "Alat bertenaga AI yang dirancang untuk menyederhanakan pelacakan pengeluaran dan perencanaan anggaran Anda.",
+    "scanning": {
+      "title": "Pemindaian struk cerdas",
+      "description": "Tidak perlu mengetik semuanya secara manual. Cukup ambil foto, dan pengeluaran akan terdeteksi serta dikategorikan secara otomatis."
+    },
+    "analysis": {
+      "title": "Pelacakan & analisis pengeluaran detail",
+      "description": "Analisis pengeluaran makanan, transportasi, sewa, dan lainnya with grafik. Temukan pengeluaran yang tidak perlu dan hemat uang."
+    },
+    "shared": {
+      "title": "Manajemen anggaran bersama",
+      "description": "Buat anggaran bersama with anggota keluarga, pasangan, atau teman. Lacak pendapatan dan pengeluaran bersama-sama."
+    },
+    "alerts": {
+      "title": "Batas anggaran & peringatan",
+      "description": "Tetapkan anggaran berbasis kategori. Dapatkan notifikasi saat Anda mendekati batas pengeluaran dan tetap pegang kendali."
+    },
+    "score": {
+      "title": "Skor finansial & pelacakan tabungan",
+      "description": "Analisis kebiasaan belanja Anda dan perbaiki situasi finansial Anda. Capai target Anda with menabung lebih banyak."
+    },
+    "security": {
+      "title": "Penyimpanan data yang aman",
+      "description": "Semua data finansial Anda disimpan with aman. Data Anda hanya milik Anda dan dilindungi di tingkat tertinggi."
+    },
+    "reports": {
+      "title": "Laporan finansial lanjutan",
+      "description": "Analisis pendapatan dan pengeluaran Anda with grafik mingguan, bulanan, atau tahunan yang detail. Dapatkan gambaran jelas tentang kesehatan finansial Anda."
+    },
+    "darkmode": {
+      "title": "Mode gelap yang ramah di mata",
+      "description": "Gunakan Spendoa with nyaman kapan saja. Hemat baterai dan lindungi mata Anda with dukungan mode gelap penuh."
+    },
+    "reminders": {
+      "title": "Pengingat yang dipersonalisasi",
+      "description": "Jangan pernah lagi melewatkan pembayaran tagihan atau batas anggaran. Tetap kendalikan kalender finansial Anda with notifikasi cerdas."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Untuk siapa aplikasi ini?",
+    "items": {
+      "i1": "Mereka yang mencari aplikasi pelacak anggaran",
+      "i2": "Mereka yang ingin melacak pendapatan dan pengeluaran",
+      "i3": "Pengguna yang ingin mengontrol biaya melalui pelacakan pengeluaran",
+      "i4": "Individu yang mencatat pengeluaran harian",
+      "i5": "Pengguna yang mencari perencana anggaran",
+      "i6": "Mereka yang mencari aplikasi manajemen uang",
+      "i7": "Orang yang ingin melacak utang dan tagihan",
+      "i8": "Individu yang bertujuan untuk menabung dan mengumpulkan uang"
+    }
+  },
+  "whyUs": {
+    "title": "Mengapa aplikasi ini?",
+    "items": {
+      "i1": "Penggunaan yang mudah dan jelas",
+      "i2": "Pencatatan pendapatan dan pengeluaran yang cepat",
+      "i3": "Analisis pengeluaran yang mendetail",
+      "i4": "Pelacakan anggaran yang cepat dan intuitif",
+      "i5": "Alat manajemen uang yang canggih"
+    }
+  },
+  "testimonials": {
+    "title": "Disukai oleh ribuan pengguna",
+    "subtitle": "Bergabunglah with mereka yang telah mengubah kehidupan finansial mereka bersama Spendoa.",
+    "users": {
+      "u1": {
+        "text": "Asisten AI ini benar-benar luar biasa! Dia memberi tahu saya di mana saya terlalu banyak belanja dan memberikan saran yang bisa langsung diterapkan.",
+        "name": "Selin Y.",
+        "role": "Pengguna Terverifikasi"
+      },
+      "u2": {
+        "text": "Fitur pemindaian struk sangat menghemat waktu saya. Ini sejauh ini adalah aplikasi pelacak pengeluaran terbaik yang pernah saya gunakan.",
+        "name": "Murat K.",
+        "role": "Pengguna Terverifikasi"
+      },
+      "u3": {
+        "text": "Akhirnya ada aplikasi yang mengelola langganan rutin dan target tabungan saya dalam satu antarmuka yang bersih.",
+        "name": "Ayşe D.",
+        "role": "Pengguna Terverifikasi"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa adalah aplikasi manajemen finansial bertenaga AI yang membantu Anda melacak pengeluaran, mengelola langganan, dan menabung.",
+    "navigation": "Menu",
+    "contact": "Kontak",
+    "faq": "FAQ",
+    "feature_request": "Permintaan Fitur",
+    "social": "Ikuti Kami",
+    "copyright": "© 2026 Spendoa. Hak cipta dilindungi undang-undang."
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "subtitle": "Segala yang perlu Anda ketahui tentang Spendoa",
+    "back": "Kembali ke Beranda",
+    "categories": {
+      "general": {
+        "title": "Umum",
+        "items":[
+          {
+            "q": "Apakah Spendoa bisa digunakan secara offline?",
+            "a": "Ya. Spendoa mengutamakan penggunaan offline (offline-first). Tanpa koneksi internet pun, Anda bisa melihat transaksi dan laporan masa lalu Anda. Demi keamanan, menambahkan transaksi baru memerlukan koneksi internet."
+          },
+          {
+            "q": "Di mana data saya disimpan?",
+            "a": "Data Anda disimpan secara aman di server jarak jauh yang dienkripsi. Meskipun Anda mengganti perangkat, Anda dapat mengakses data with masuk ke akun Anda."
+          },
+          {
+            "q": "Izin apa yang dibutuhkan Spendoa?",
+            "a": "Aplikasi ini hanya meminta izin Notifikasi untuk mengirimi Anda pengingat. Spendoa tidak memerlukan izin kamera, kontak, atau lokasi."
+          },
+          {
+            "q": "Apakah aplikasi ini mendukung widget?",
+            "a": "Ya. Anda dapat menambahkan widget Spendoa ke layar beranda untuk memeriksa status akun dan sisa batas anggaran Anda with cepat tanpa membuka aplikasi."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Akun",
+        "items":[
+          {
+            "q": "Bisakah saya membuat lebih dari satu akun?",
+            "a": "Ya. Anda dapat membuat Akun, Kartu Kredit, Rekening Bank, Uang Tunai, atau Aset tanpa batas."
+          },
+          {
+            "q": "Mengapa data berubah saat saya beralih akun?",
+            "a": "Setiap akun di Spendoa berdiri sendiri. Saat Anda beralih akun, mata uang, statistik, dan riwayat akun tersebut akan dimuat."
+          },
+          {
+            "q": "Bisakah saya mentransfer uang antar akun?",
+            "a": "Ya. Anda dapat with mudah menambahkan transaksi transfer, seperti memindahkan dana dari akun uang tunai ke kartu kredit atau rekening tabungan Anda."
+          },
+          {
+            "q": "Bisakah saya menggunakan mata uang yang berbeda?",
+            "a": "Ya. Anda dapat menetapkan mata uang yang berbeda for setiap akun. Selama transfer, Spendoa mengambil nilai tukar langsung dan mengonversinya secara otomatis."
+          },
+          {
+            "q": "Seberapa sering nilai tukar diperbarui?",
+            "a": "Nilai tukar yang digunakan dalam transfer diambil secara real-time dari pasar global selama Anda memiliki koneksi internet."
+          },
+          {
+            "q": "Bisakah saya menggunakan akun bersama?",
+            "a": "Spendoa dirancang for penggunaan individu. Namun, Anda dapat mengelola data yang sama with pasangan jika Anda berdua masuk menggunakan akun Google yang sama."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transaksi",
+        "items":[
+          {
+            "q": "Bagaimana cara menambahkan pembelian cicilan?",
+            "a": "Saat menambahkan pengeluaran, pilih 'Pembayaran Cicilan'. Masukkan jumlah total dan jumlah cicilan; aplikasi akan secara otomatis membagi jumlahnya ke dalam beberapa bulan."
+          },
+          {
+            "q": "Bagaimana saya bisa melacak utang dan piutang saya?",
+            "a": "Gunakan modul 'Utang & Piutang' di menu. Tambahkan seseorang for melacak with mudah berapa banyak Anda berutang atau berapa banyak orang berutang kepada Anda."
+          },
+          {
+            "q": "Bagaimana saya harus mencatat pembayaran kartu kredit?",
+            "a": "Catat sebagai transaksi 'Transfer'. Transfer uang dari rekening bank Anda ke akun Kartu Kredit agar pengeluaran Anda tidak dihitung dua kali."
+          },
+          {
+            "q": "Bagaimana cara kerja transaksi berulang?",
+            "a": "Setiap akun memiliki aturan pendapatan/pengeluaran berulangnya sendiri. Saat tanggal yang dijadwalkan tiba, transaksi ditambahkan secara otomatis."
+          }
+        ]
+      },
+      "security": {
+        "title": "Keamanan",
+        "items":[
+          {
+            "q": "Bisakah saya mengunci aplikasi?",
+            "a": "Ya. Anda dapat mengaktifkan Autentikasi Biometrik (Sidik Jari/Face ID) di Pengaturan. Fitur ini gratis digunakan."
+          },
+          {
+            "q": "Apa itu penyembunyian jumlah (Amount Masking)?",
+            "a": "Penyembunyian Jumlah menyembunyikan saldo Anda di lingkungan yang ramai sehingga orang lain tidak dapat melihatnya. Fitur ini gratis."
+          },
+          {
+            "q": "Apakah data saya aman?",
+            "a": "Ya. Data Anda dilindungi with enkripsi standar industri. Tidak ada seorang pun, termasuk tim Spendoa, yang dapat mengakses informasi Anda."
+          },
+          {
+            "q": "Bisakah saya menghapus akun saya?",
+            "a": "Ya. Buka Pengaturan > Akun > Hapus Akun Saya for menghapus akun Anda beserta semua data terkait secara permanen."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items":[
+          {
+            "q": "Apa saja keuntungan dari Premium?",
+            "a": "Premium mencakup fitur-fitur seperti Skor Finansial, Prakiraan Masa Depan, Laporan Lanjutan, dan Akun Tak Terbatas. Fitur akuntansi dasar tetap gratis."
+          },
+          {
+            "q": "Apa itu paket Seumur Hidup (Lifetime)?",
+            "a": "Seumur Hidup adalah pembelian satu kali. Bayar sekali dan dapatkan akses seumur hidup ke semua fitur Premium."
+          },
+          {
+            "q": "Saya membeli Premium tetapi fiturnya belum aktif?",
+            "a": "Ketuk 'Pulihkan Pembelian' di Pengaturan. Jika masalah berlanjut, silakan hubungi dukungan."
+          },
+          {
+            "q": "Bagaimana cara membatalkan langganan saya?",
+            "a": "Batalkan melalui Google Play Store > Langganan. Manfaat Anda akan berlanjut hingga akhir periode penagihan saat ini."
+          }
+        ]
+      }
+    }
+  }
+}

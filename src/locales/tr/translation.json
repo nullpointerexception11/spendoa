@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "testimonials": "Değerlendirmeler",
+    "download": "İndir"
+  },
+  "hero": {
+    "headline": "Bütçeniz için kolay para yönetimi",
+    "subheadline": "Günlük harcamalarınızı kontrol edin, bütçenizi planlayın ve birikim yapmaya başlayın. Ay sonu geldiğinde \"Param nereye gitti?\" diye düşünüyorsanız, Spendoa tam size göre.",
+    "cta": "Hemen İndir"
+  },
+  "features": {
+    "title": "Paranızı yönetmek için ihtiyacınız olan her şey",
+    "subtitle": "Finansal hayatınız üzerinde tam kontrol sahibi olmanız için tasarlanmış güçlü araçları keşfedin.",
+    "items": {
+      "ai": {
+        "title": "Spendoa Yapay Zeka Asistanı",
+        "description": "Harcamalarınız hakkında içgörüler ve kişiselleştirilmiş tasarruf ipuçları almak için kişisel yapay zekanızla sohbet edin."
+      },
+      "receipts": {
+        "title": "Akıllı Fiş Tarama",
+        "description": "Fişlerinizi yapay zeka ile tarayın ve harcama detaylarınızı otomatik olarak doldurun."
+      },
+      "goals": {
+        "title": "Birikim Hedefleri",
+        "description": "Özel birikim hedefleri belirleyin ve finansal özgürlüğe giden yoldaki ilerlemenizi görsel olarak takip edin."
+      },
+      "recurring": {
+        "title": "Düzenli İşlemler",
+        "description": "Aktif aboneliklerinizi ve düzenli aylık faturalarınızı tek bir yerden kolayca yönetin."
+      },
+      "installments": {
+        "title": "Taksitler ve Krediler",
+        "description": "Taksitli alışverişlerinizi, kredilerinizi, borç ve alacaklarınızı sorunsuzca takip edin."
+      },
+      "budgets": {
+        "title": "Akıllı Bütçeler",
+        "description": "Aylık harcamalarınızı etkili bir şekilde takip etmek ve kontrol altında tutmak için kategori bazlı bütçeler oluşturun."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Öne çıkan özellikler",
+    "subtitle": "Harcama takibinizi ve bütçe planlamanızı kolaylaştırmak için tasarlanmış yapay zeka destekli araçlar.",
+    "scanning": {
+      "title": "Akıllı fiş tarama",
+      "description": "Her şeyi manuel olarak girmenize gerek yok. Sadece bir fotoğraf çekin, harcamalarınız otomatik olarak algılansın ve kategorize edilsin."
+    },
+    "analysis": {
+      "title": "Detaylı harcama takibi ve analizi",
+      "description": "Gıda, ulaşım, kira ve diğer tüm harcamalarınızı grafiklerle analiz edin. Gereksiz harcamaları tespit edin ve tasarruf edin."
+    },
+    "shared": {
+      "title": "Ortak bütçe yönetimi",
+      "description": "Aile üyelerinizle, eşinizle veya arkadaşlarınızla ortak bir bütçe oluşturun. Gelir ve giderleri birlikte takip edin."
+    },
+    "alerts": {
+      "title": "Bütçe sınırları ve uyarılar",
+      "description": "Kategori bazlı bütçeler belirleyin. Harcama limitinize yaklaştığınızda bildirim alın ve kontrolü elden bırakmayın."
+    },
+    "score": {
+      "title": "Finansal puan ve birikim takibi",
+      "description": "Harcama alışkanlıklarınızı analiz edin ve finansal durumunuzu iyileştirin. Daha fazla birikim yaparak hedeflerinize ulaşın."
+    },
+    "security": {
+      "title": "Güvenli veri depolama",
+      "description": "Tüm finansal verileriniz güvenle saklanır. Verileriniz sadece size aittir ve en üst düzeyde korunur."
+    },
+    "reports": {
+      "title": "Gelişmiş finansal raporlar",
+      "description": "Gelir ve giderlerinizi detaylı haftalık, aylık veya yıllık grafiklerle analiz edin. Finansal sağlığınızı net bir şekilde görün."
+    },
+    "darkmode": {
+      "title": "Göz yormayan karanlık mod",
+      "description": "Spendoa'yı günün her saatinde rahatça kullanın. Tam karanlık mod desteğiyle pil ömründen tasarruf edin ve gözlerinizi koruyun."
+    },
+    "reminders": {
+      "title": "Kişiselleştirilmiş hatırlatıcılar",
+      "description": "Bir daha asla fatura ödemesini veya bütçe limitini kaçırmayın. Akıllı bildirimlerle finansal takviminizin kontrolünü elinizde tutun."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Bu uygulama kimler için?",
+    "items": {
+      "i1": "Bütçe takip uygulaması arayanlar",
+      "i2": "Gelir ve giderlerini takip etmek isteyenler",
+      "i3": "Harcama takibiyle masraflarını kontrol altına almak isteyen kullanıcılar",
+      "i4": "Günlük harcamalarını kaydeden bireyler",
+      "i5": "Bütçe planlayıcı arayan kullanıcılar",
+      "i6": "Para yönetimi uygulamaları arayanlar",
+      "i7": "Borçlarını ve faturalarını takip etmek isteyenler",
+      "i8": "Tasarruf yapmayı ve para biriktirmeyi hedefleyen bireyler"
+    }
+  },
+  "whyUs": {
+    "title": "Neden bu uygulama?",
+    "items": {
+      "i1": "Kolay ve anlaşılır kullanım",
+      "i2": "Hızlı gelir ve gider kaydı",
+      "i3": "Detaylı harcama analizi",
+      "i4": "Hızlı ve sezgisel bütçe takibi",
+      "i5": "Güçlü para yönetimi araçları"
+    }
+  },
+  "testimonials": {
+    "title": "Binlerce kullanıcı tarafından seviliyor",
+    "subtitle": "Spendoa ile finansal hayatlarını dönüştüren insanların arasına katılın.",
+    "users": {
+      "u1": {
+        "text": "Yapay zeka asistanı tam bir ezber bozan! Bana tam olarak nerede fazla harcama yaptığımı söylüyor ve uygulanabilir tavsiyeler veriyor.",
+        "name": "Selin Y.",
+        "role": "Doğrulanmış Kullanıcı"
+      },
+      "u2": {
+        "text": "Fiş tarama özelliği bana çok zaman kazandırıyor. Bugüne kadar kullandığım açık ara en iyi harcama takip uygulaması.",
+        "name": "Murat K.",
+        "role": "Doğrulanmış Kullanıcı"
+      },
+      "u3": {
+        "text": "Sonunda hem düzenli aboneliklerimi hem de birikim hedeflerimi tek ve sade bir arayüzde yöneten bir uygulama buldum.",
+        "name": "Ayşe D.",
+        "role": "Doğrulanmış Kullanıcı"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa, harcamalarınızı takip etmenize, aboneliklerinizi yönetmenize ve tasarruf etmenize yardımcı olan yapay zeka destekli bir finansal yönetim uygulamasıdır.",
+    "navigation": "Menü",
+    "contact": "İletişim",
+    "faq": "S.S.S.",
+    "feature_request": "Özellik İsteği",
+    "social": "Bizi Takip Edin",
+    "copyright": "© 2026 Spendoa. Tüm hakları saklıdır."
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Spendoa hakkında bilmeniz gereken her şey",
+    "back": "Ana Sayfaya Dön",
+    "categories": {
+      "general": {
+        "title": "Genel",
+        "items": [
+          {
+            "q": "Spendoa internet olmadan çalışır mı?",
+            "a": "Evet. Spendoa öncelikle çevrimdışı (offline-first) çalışır. İnternet bağlantısı olmasa bile geçmiş işlemlerinizi ve raporlarınızı görüntüleyebilirsiniz. Güvenlik nedenleriyle, yeni işlem eklemek internet bağlantısı gerektirir."
+          },
+          {
+            "q": "Verilerim nerede saklanıyor?",
+            "a": "Verileriniz şifrelenmiş uzak sunucularda güvenle saklanır. Cihaz değiştirseniz bile hesabınıza giriş yaparak verilerinize ulaşabilirsiniz."
+          },
+          {
+            "q": "Spendoa hangi izinleri istiyor?",
+            "a": "Size sadece hatırlatıcılar gönderebilmek için Bildirim izni ister. Spendoa kamera, rehber veya konum izinleri talep etmez."
+          },
+          {
+            "q": "Uygulama widget (araç takımı) destekliyor mu?",
+            "a": "Evet. Uygulamayı açmadan hesap durumunuzu ve kalan limitinizi hızlıca kontrol etmek için Spendoa widget'ını ana ekranınıza ekleyebilirsiniz."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Hesaplar",
+        "items": [
+          {
+            "q": "Birden fazla hesap oluşturabilir miyim?",
+            "a": "Evet. Sınırsız sayıda Hesap, Kredi Kartı, Banka Hesabı, Nakit veya Varlık hesabı oluşturabilirsiniz."
+          },
+          {
+            "q": "Hesaplar arasında geçiş yaptığımda veriler neden değişiyor?",
+            "a": "Spendoa'daki her hesap birbirinden bağımsızdır. Hesap değiştirdiğinizde, o hesaba ait para birimi, istatistikler ve işlem geçmişi yüklenir."
+          },
+          {
+            "q": "Hesaplar arası para transferi yapabilir miyim?",
+            "a": "Evet. Nakit hesabınızdan kredi kartınıza veya birikim hesabınıza fon aktarmak gibi transfer işlemlerini kolayca ekleyebilirsiniz."
+          },
+          {
+            "q": "Farklı para birimleri kullanabilir miyim?",
+            "a": "Evet. Her hesap için farklı bir para birimi belirleyebilirsiniz. Transferler sırasında Spendoa canlı döviz kurlarını çeker ve otomatik olarak dönüştürür."
+          },
+          {
+            "q": "Döviz kurları ne sıklıkla güncellenir?",
+            "a": "Transferlerde kullanılan döviz kurları, internet bağlantınız olduğu sürece küresel piyasalardan gerçek zamanlı olarak çekilir."
+          },
+          {
+            "q": "Ortak bir hesap kullanabilir miyim?",
+            "a": "Spendoa bireysel kullanım için tasarlanmıştır. Ancak, partnerinizle aynı Google hesabı üzerinden giriş yaparsanız aynı verileri birlikte yönetebilirsiniz."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "İşlemler",
+        "items": [
+          {
+            "q": "Taksitli alışverişleri nasıl eklerim?",
+            "a": "Bir harcama eklerken 'Taksitli Ödeme' seçeneğini seçin. Toplam tutarı ve taksit sayısını girin; uygulama tutarı aylara otomatik olarak bölecektir."
+          },
+          {
+            "q": "Borç ve alacaklarımı nasıl takip edebilirim?",
+            "a": "Menüdeki 'Borç ve Alacaklar' modülünü kullanın. Kime ne kadar borcunuz olduğunu veya kimden ne kadar alacağınız olduğunu kolayca takip etmek için bir kişi ekleyin."
+          },
+          {
+            "q": "Kredi kartı ödemelerini nasıl kaydetmeliyim?",
+            "a": "Bunları bir 'Transfer' işlemi olarak kaydedin. Harcamalarınızın iki kez sayılmaması için banka hesabınızdan Kredi Kartı hesabınıza para transferi yapın."
+          },
+          {
+            "q": "Düzenli işlemler nasıl çalışır?",
+            "a": "Her hesabın kendi düzenli gelir/gider kuralları vardır. Planlanan tarih geldiğinde işlem otomatik olarak eklenir."
+          }
+        ]
+      },
+      "security": {
+        "title": "Güvenlik",
+        "items": [
+          {
+            "q": "Uygulamayı kilitleyebilir miyim?",
+            "a": "Evet. Ayarlar'dan Biyometrik Kimlik Doğrulama'yı (Parmak İzi/Face ID) etkinleştirebilirsiniz. Bu özelliğin kullanımı ücretsizdir."
+          },
+          {
+            "q": "Tutar gizleme (maskeleme) nedir?",
+            "a": "Tutar Maskeleme, kalabalık ortamlarda bakiyelerinizi gizler, böylece başkaları göremez. Bu özellik ücretsizdir."
+          },
+          {
+            "q": "Verilerim güvende mi?",
+            "a": "Evet. Verileriniz endüstri standardı şifreleme ile korunur. Spendoa ekibi dâhil hiç kimse bilgilerinize erişemez."
+          },
+          {
+            "q": "Hesabımı silebilir miyim?",
+            "a": "Evet. Hesabınızı ve ilişkili tüm verilerinizi kalıcı olarak silmek için Ayarlar > Hesap > Hesabımı Sil adımlarını izleyin."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Premium'un avantajları nelerdir?",
+            "a": "Premium; Finansal Puan, Gelecek Tahmini, Gelişmiş Raporlar ve Sınırsız Hesap gibi özellikleri içerir. Temel muhasebe özellikleri ücretsiz kalmaya devam eder."
+          },
+          {
+            "q": "Ömür Boyu (Lifetime) paket nedir?",
+            "a": "Ömür Boyu paketi tek seferlik bir satın alımdır. Bir kez ödeme yaparsınız ve tüm Premium özelliklere ömür boyu erişim sağlarsınız."
+          },
+          {
+            "q": "Premium satın aldım ancak özellikler aktifleşmedi?",
+            "a": "Ayarlar bölümünden 'Satın Alımları Geri Yükle'ye dokunun. Sorun devam ederse lütfen destek ekibiyle iletişime geçin."
+          },
+          {
+            "q": "Aboneliğimi nasıl iptal edebilirim?",
+            "a": "Google Play Store > Abonelikler üzerinden iptal edebilirsiniz. Avantajlarınız mevcut fatura döneminin sonuna kadar devam edecektir."
+          }
+        ]
+      }
+    }
+  }
+}

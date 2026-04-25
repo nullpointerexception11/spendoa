@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Xüsusiyyətlər",
+    "testimonials": "Rəylər",
+    "download": "Yüklə"
+  },
+  "hero": {
+    "headline": "Büdcəniz üçün asan pul idarəetməsi",
+    "subheadline": "Gündəlik xərclərinizi idarə edin, büdcənizi planlaşdırın və qənaət etməyə başlayın. Ayın sonunda \"Pulum hara getdi?\" deyə düşünürsünüzsə, Spendoa tam sizin üçündür.",
+    "cta": "İndi Yüklə"
+  },
+  "features": {
+    "title": "Pulunuzu idarə etmək üçün lazım olan hər şey",
+    "subtitle": "Maliyyə həyatınıza tam nəzarət etmək üçün nəzərdə tutulmuş güclü alətləri kəşf edin.",
+    "items": {
+      "ai": {
+        "title": "Spendoa Süni İntellekt Asistanı",
+        "description": "Xərcləriniz haqqında məlumat və fərdiləşdirilmiş qənaət məsləhətləri almaq üçün şəxsi süni intellektinizlə söhbət edin."
+      },
+      "receipts": {
+        "title": "Ağıllı Qəbz Skanlama",
+        "description": "Qəbzlərinizi süni intellektlə skan edin və xərc detallarınızı avtomatik doldurun."
+      },
+      "goals": {
+        "title": "Qənaət Hədəfləri",
+        "description": "Xüsusi qənaət hədəfləri təyin edin və maliyyə azadlığına doğru irəliləyişinizi vizual olaraq izləyin."
+      },
+      "recurring": {
+        "title": "Təkrarlanan Əməliyyatlar",
+        "description": "Aktiv abunəliklərinizi və müntəzəm aylıq qəbzlərinizi tək bir yerdən asanlıqla idarə edin."
+      },
+      "installments": {
+        "title": "Taksitlər və Kreditlər",
+        "description": "Taksitlə etdiyiniz alış-verişləri, kreditləri, borc ve alacaqlarınızı problemsiz izləyin."
+      },
+      "budgets": {
+        "title": "Ağıllı Büdcələr",
+        "description": "Aylıq xərclərinizi effektiv şəkildə izləmək və nəzarətdə saxlamaq üçün kateqoriya əsaslı büdcələr yaradın."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Ön çıxan xüsusiyyətlər",
+    "subtitle": "Xərc izləmə və büdcə planlaşdırmanızı asanlaşdırmaq üçün nəzərdə tutulmuş süni intellekt dəstəkli alətlər.",
+    "scanning": {
+      "title": "Ağıllı qəbz skanlama",
+      "description": "Hər şeyi əllə daxil etməyə ehtiyac yoxdur. Sadəcə şəkil çəkin, xərcləriniz avtomatik aşkarlansın və kateqoriyalara ayrılsın."
+    },
+    "analysis": {
+      "title": "Detallı xərc izləmə və analizi",
+      "description": "Qida, nəqliyyat, kirayə və digər bütün xərclərinizi qrafiklərlə analiz edin. Lazımsız xərcləri aşkarlayın və qənaət edin."
+    },
+    "shared": {
+      "title": "Müştərək büdcə idarəetməsi",
+      "description": "Ailə üzvləriniz, yoldaşınız və ya dostlarınızla ortaq bir büdcə yaradın. Gəlir və xərcləri birlikdə izləyin."
+    },
+    "alerts": {
+      "title": "Büdcə limitləri və xəbərdarlıqlar",
+      "description": "Kateqoriya əsaslı büdcələr təyin edin. Xərc limitinizə yaxınlaşdıqda bildiriş alın və nəzarəti əldən verməyin."
+    },
+    "score": {
+      "title": "Maliyyə xalı və qənaət izləmə",
+      "description": "Xərcləmə vərdişlərinizi analiz edin və maliyyə vəziyyətinizi yaxşılaşdırın. Daha çox qənaət edərək hədəflərinizə çatın."
+    },
+    "security": {
+      "title": "Təhlükəsiz məlumat saxlanması",
+      "description": "Bütün maliyyə məlumatlarınız təhlükəsiz şəkildə saxlanılır. Məlumatlarınız yalnız sizə məxsusdur və ən yüksək səviyyədə qorunur."
+    },
+    "reports": {
+      "title": "Təkmilləşdirilmiş maliyyə hesabatları",
+      "description": "Gəlir və xərclərinizi detallı həftəlik, aylıq və ya illik qrafiklərlə analiz edin. Maliyyə sağlamlığınızı aydın şəkildə görün."
+    },
+    "darkmode": {
+      "title": "Göz yormayan qaranlıq rejim",
+      "description": "Spendoa-nı günün istənilən saatında rahatlıqla istifadə edin. Tam qaranlıq rejim dəstəyi ilə batareya ömrünə qənaət edin və gözlərinizi qoruyun."
+    },
+    "reminders": {
+      "title": "Fərdiləşdirilmiş xatırlatmalar",
+      "description": "Bir daha heç vaxt faktura ödənişini və ya büdcə limitini qaçırmayın. Ağıllı bildirişlərlə maliyyə təqviminizin nəzarətini əlinizdə saxlayın."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Bu tətbiq kimlər üçündür?",
+    "items": {
+      "i1": "Büdcə izləmə tətbiqi axtaranlar",
+      "i2": "Gəlir və xərclərini izləmək istəyənlər",
+      "i3": "Xərc izləmə ilə məsrəflərinə nəzarət etmək istəyən istifadəçilər",
+      "i4": "Gündəlik xərclərini qeyd edən şəxslər",
+      "i5": "Büdcə planlayıcısı axtaran istifadəçilər",
+      "i6": "Pul idarəetmə tətbiqləri axtaranlar",
+      "i7": "Borclarını və fakturalarını izləmək istəyənlər",
+      "i8": "Qənaət etməyi və pul toplamağı hədəfləyən şəxslər"
+    }
+  },
+  "whyUs": {
+    "title": "Niyə bu tətbiq?",
+    "items": {
+      "i1": "Asan və anlaşıqlı istifadə",
+      "i2": "Sürətli gəlir və xərc qeydiyyatı",
+      "i3": "Detallı xərc analizi",
+      "i4": "Sürətli və intuitiv büdcə izləmə",
+      "i5": "Güclü pul idarəetmə alətləri"
+    }
+  },
+  "testimonials": {
+    "title": "Minlərlə istifadəçi tərəfindən sevilir",
+    "subtitle": "Spendoa ilə maliyyə həyatlarını dəyişdirən insanların arasına qatılın.",
+    "users": {
+      "u1": {
+        "text": "Süni intellekt asistanı tamamilə möhtəşəmdir! Mənə harada çox xərclədiyimi dəqiq deyir və faydalı məsləhətlər verir.",
+        "name": "Selin Y.",
+        "role": "Təsdiqlənmiş İstifadəçi"
+      },
+      "u2": {
+        "text": "Qəbz skanlama xüsusiyyəti mənə çox vaxt qazandırır. İndiyə qədər istifadə etdiyim ən yaxşı xərc izləmə tətbiqidir.",
+        "name": "Murat K.",
+        "role": "Təsdiqlənmiş İstifadəçi"
+      },
+      "u3": {
+        "text": "Nəhayət, həm müntəzəm abunəliklərimi, həm də qənaət hədəflərimi sadə bir interfeysdə idarə edən bir tətbiq tapdım.",
+        "name": "Aişə D.",
+        "role": "Təsdiqlənmiş İstifadəçi"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa, xərclərinizi izləməyə, abunəliklərinizi idarə etməyə və qənaət etməyə kömək edən süni intellekt dəstəkli maliyyə idarəetmə tətbiqidir.",
+    "navigation": "Menyu",
+    "contact": "Əlaqə",
+    "faq": "T.V.S.",
+    "feature_request": "Xüsusiyyət Tələbi",
+    "social": "Bizi İzləyin",
+    "copyright": "© 2026 Spendoa. Bütün hüquqlar qorunur."
+  },
+  "faq": {
+    "title": "Tez-tez Verilən Suallar",
+    "subtitle": "Spendoa haqqında bilməli olduğunuz hər şey",
+    "back": "Ana Səhifəyə Qayıt",
+    "categories": {
+      "general": {
+        "title": "Ümumi",
+        "items": [
+          {
+            "q": "Spendoa internet olmadan işləyir?",
+            "a": "Bəli. Spendoa əsasən oflayn (offline-first) işləyir. İnternet bağlantısı olmasa belə, keçmiş əməliyyatlarınızı və hesabatlarınızı görə bilərsiniz. Təhlükəsizlik səbəbilə, yeni əməliyyat əlavə etmək üçün internet bağlantısı tələb olunur."
+          },
+          {
+            "q": "Məlumatlarım harada saxlanılır?",
+            "a": "Məlumatlarınız şifrələnmiş uzaq serverlərdə təhlükəsiz şəkildə saxlanılır. Cihazı dəyişsəniz belə, hesabınıza daxil olaraq məlumatlarınıza bərpa edə bilərsiniz."
+          },
+          {
+            "q": "Spendoa hansı icazələri tələb edir?",
+            "a": "Sizə yalnız xatırlatmalar göndərmək üçün Bildiriş icazəsi istəyir. Spendoa kamera, kontaktlar və ya məkan icazələri tələb etmir."
+          },
+          {
+            "q": "Tətbiq vidcet (widget) dəstəkləyir?",
+            "a": "Bəli. Tətbiqi açmadan hesabınızın vəziyyətini və qalan limitinizi tez bir zamanda yoxlamaq üçün Spendoa vidcetini ana ekranınıza əlavə edə bilərsiniz."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Hesablar",
+        "items": [
+          {
+            "q": "Birdən çox hesab yarada bilərəmmi?",
+            "a": "Bəli. Limitsiz sayda Hesab, Kredit Kartı, Bank Hesabı, Nağd və ya Aktiv hesabı yarada bilərsiniz."
+          },
+          {
+            "q": "Hesablar arasında keçid etdikdə məlumatlar niyə dəyişir?",
+            "a": "Spendoa-dakı hər hesab bir-birindən müstəqildir. Hesabı dəyişdikdə həmin hesaba aid valyuta, statistika və əməliyyat tarixçəsi yüklənir."
+          },
+          {
+            "q": "Hesablar arasında pul transferi edə bilərəm?",
+            "a": "Bəli. Nağd hesabınızdan kredit kartınıza və ya qənaət hesabınıza pul köçürmək kimi transfer əməliyyatlarını asanlıqla əlavə edə bilərsiniz."
+          },
+          {
+            "q": "Fərqli valyutalardan istifadə edə bilərəm?",
+            "a": "Bəli. Hər hesab üçün fərqli valyuta təyin edə bilərsiniz. Transferler zamanı Spendoa canlı məzənnələri alır və avtomatik konvertasiya edir."
+          },
+          {
+            "q": "Məzənnələr nə qədər tez-tez yenilənir?",
+            "a": "Transferlərdə istifadə olunan məzənnələr, internet bağlantınız olduğu müddətcə qlobal bazarlardan real vaxt rejimində əldə edilir."
+          },
+          {
+            "q": "Ortak hesabdan istifadə edə bilərəm?",
+            "a": "Spendoa fərdi istifadə üçün nəzərdə tutulub. Lakin, tərəfdaşınızla eyni Google hesabı vasitəsilə daxil olsanız, eyni məlumatları birlikdə idarə edə bilərsiniz."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Əməliyyatlar",
+        "items": [
+          {
+            "q": "Taksitlə (hissə-hissə) alış-verişləri necə əlavə edə bilərəm?",
+            "a": "Xərc əlavə edərkən 'Taksitli Ödəniş' seçimini edin. Ümumi məbləği və taksit sayını daxil edin; tətbiq məbləği aylara avtomatik böləcək."
+          },
+          {
+            "q": "Borc və alacaqlarımı necə izləyə bilərəm?",
+            "a": "Menyudakı 'Borclar və Alacaqlar' modulundan istifadə edin. Kimə nə qədər borcunuz olduğunu və ya kimdən nə qədər alacağınız olduğunu asanlıqla izləmək üçün bir şəxs əlavə edin."
+          },
+          {
+            "q": "Kredit kartı ödənişlərini necə qeyd etməliyəm?",
+            "a": "Bunları 'Transfer' əməliyyatı kimi qeyd edin. Xərclərinizin iki dəfə hesablanmaması üçün bank hesabınızdan Kredit Kartı hesabınıza pul transferi edin."
+          },
+          {
+            "q": "Təkrarlanan əməliyyatlar necə işləyir?",
+            "a": "Hər hesabın öz təkrarlanan gəlir/xərc qaydaları var. Planlaşdırılan tarix gəldikdə, əməliyyat avtomatik əlavə olunur."
+          }
+        ]
+      },
+      "security": {
+        "title": "Təhlükəsizlik",
+        "items": [
+          {
+            "q": "Tətbiqi kilidləyə bilərəm?",
+            "a": "Bəli. Ayarlardan Biometrik Doğrulamanı (Barmaq izi/Face ID) aktivləşdirə bilərsiniz. Bu xüsusiyyətdən istifadə pulsuzdur."
+          },
+          {
+            "q": "Məbləğin gizlədilməsi (maskalanması) nədir?",
+            "a": "Məbləğ Maskalama izdihamlı mühitlərdə balansınızı gizlədir ki, başqaları görə bilməsin. Bu xüsusiyyət pulsuzdur."
+          },
+          {
+            "q": "Məlumatlarım təhlükəsizdir?",
+            "a": "Bəli. Məlumatlarınız sənaye standartı olan şifrələmə ilə qorunur. Spendoa komandası daxil olmaqla heç kim məlumatlarınıza daxil ola bilməz."
+          },
+          {
+            "q": "Hesabımı silə bilərəm?",
+            "a": "Bəli. Hesabınızı və əlaqəli bütün məlumatlarınızı həmişəlik silmək üçün Ayarlar > Hesab > Hesabımı Sil addımlarını izləyin."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Premium-un üstünlükləri nələrdir?",
+            "a": "Premium; Maliyyə Xalı, Gələcək Proqnozu, Təkmilləşdirilmiş Hesabatlar və Limitsiz Hesablar kimi xüsusiyyətləri ehtiva edir. Əsas mühasibat xüsusiyyətləri pulsuz olaraq qalır."
+          },
+          {
+            "q": "Ömürlük (Lifetime) paket nədir?",
+            "a": "Ömürlük paket birdəfəlik ödənişdir. Bir dəfə ödəniş edirsiniz və bütün Premium xüsusiyyətlərinə ömürlük çıxış əldə edirsiniz."
+          },
+          {
+            "q": "Premium satın aldım, ancaq xüsusiyyətlər aktivləşmədi?",
+            "a": "Ayarlar bölməsindən 'Satınalmaları Bərpa Et' vurun. Problem davam edərsə, zəhmət olmasa dəstək komandası ilə əlaqə saxlayın."
+          },
+          {
+            "q": "Abunəliyimi necə ləğv edə bilərəm?",
+            "a": "Google Play Store > Abunəliklər vasitəsilə ləğv edə bilərsiniz. Üstünlükləriniz cari hesab-faktura dövrünün sonuna qədər davam edəcək."
+          }
+        ]
+      }
+    }
+  }
+}

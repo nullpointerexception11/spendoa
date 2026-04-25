@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Tính năng",
+    "testimonials": "Đánh giá",
+    "download": "Tải xuống"
+  },
+  "hero": {
+    "headline": "Quản lý tiền bạc dễ dàng cho ngân sách của bạn",
+    "subheadline": "Kiểm soát chi tiêu hàng ngày, lập kế hoạch ngân sách và bắt đầu tiết kiệm. Nếu bạn thường tự hỏi \"Tiền của mình đã đi đâu?\" vào cuối tháng, Spendoa chính là dành cho bạn.",
+    "cta": "Tải xuống ngay"
+  },
+  "features": {
+    "title": "Mọi thứ bạn cần để quản lý tiền bạc",
+    "subtitle": "Khám phá các công cụ mạnh mẽ được thiết kế để giúp bạn kiểm soát hoàn toàn đời sống tài chính của mình.",
+    "items": {
+      "ai": {
+        "title": "Trợ lý AI Spendoa",
+        "description": "Trò chuyện với AI cá nhân để nhận được thông tin chi tiết về chi tiêu và các mẹo tiết kiệm được cá nhân hóa."
+      },
+      "receipts": {
+        "title": "Quét biên lai thông minh",
+        "description": "Quét biên lai của bạn bằng AI để tự động điền các chi tiết chi tiêu."
+      },
+      "goals": {
+        "title": "Mục tiêu tiết kiệm",
+        "description": "Đặt mục tiêu tiết kiệm tùy chỉnh và theo dõi trực quan tiến trình hướng tới tự do tài chính của bạn."
+      },
+      "recurring": {
+        "title": "Giao dịch định kỳ",
+        "description": "Dễ dàng quản lý các đăng ký đang hoạt động và các hóa đơn hàng tháng thường xuyên của bạn tại một nơi."
+      },
+      "installments": {
+        "title": "Trả góp & Khoản vay",
+        "description": "Theo dõi các khoản mua trả góp, khoản vay, nợ và các khoản phải thu một cách liền mạch."
+      },
+      "budgets": {
+        "title": "Ngân sách thông minh",
+        "description": "Tạo ngân sách dựa trên danh mục để theo dõi và kiểm soát chi tiêu hàng tháng của bạn một cách hiệu quả."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Tính năng nổi bật",
+    "subtitle": "Các công cụ hỗ trợ AI được thiết kế để đơn giản hóa việc theo dõi chi tiêu và lập kế hoạch ngân sách của bạn.",
+    "scanning": {
+      "title": "Quét biên lai thông minh",
+      "description": "Không cần nhập mọi thứ thủ công. Chỉ cần chụp ảnh, các khoản chi tiêu sẽ được tự động phát hiện và phân loại."
+    },
+    "analysis": {
+      "title": "Theo dõi & Phân tích chi tiêu chi tiết",
+      "description": "Phân tích chi tiêu cho thực phẩm, đi lại, thuê nhà và các chi phí khác bằng biểu đồ. Tìm ra các khoản chi không cần thiết và tiết kiệm tiền."
+    },
+    "shared": {
+      "title": "Quản lý ngân sách chung",
+      "description": "Tạo ngân sách chung với các thành viên gia đình, vợ chồng hoặc bạn bè. Cùng nhau theo dõi thu nhập và chi tiêu."
+    },
+    "alerts": {
+      "title": "Giới hạn ngân sách & Cảnh báo",
+      "description": "Thiết lập ngân sách theo danh mục. Nhận thông báo khi bạn gần đạt đến giới hạn chi tiêu và luôn nắm quyền kiểm soát."
+    },
+    "score": {
+      "title": "Điểm tài chính & Theo dõi tiết kiệm",
+      "description": "Phân tích thói quen chi tiêu và cải thiện tình hình tài chính của bạn. Đạt được mục tiêu bằng cách tiết kiệm nhiều hơn."
+    },
+    "security": {
+      "title": "Lưu trữ dữ liệu an toàn",
+      "description": "Tất cả dữ liệu tài chính của bạn được lưu trữ an toàn. Dữ liệu của bạn chỉ thuộc về bạn và được bảo vệ ở mức cao nhất."
+    },
+    "reports": {
+      "title": "Báo cáo tài chính nâng cao",
+      "description": "Phân tích thu nhập và chi tiêu với các biểu đồ chi tiết theo tuần, tháng hoặc năm. Có cái nhìn rõ ràng về sức khỏe tài chính của bạn."
+    },
+    "darkmode": {
+      "title": "Chế độ tối bảo vệ mắt",
+      "description": "Sử dụng Spendoa thoải mái vào bất kỳ thời điểm nào trong ngày. Tiết kiệm pin và bảo vệ mắt với hỗ trợ chế độ tối hoàn toàn."
+    },
+    "reminders": {
+      "title": "Nhắc nhở cá nhân hóa",
+      "description": "Không bao giờ bỏ lỡ kỳ thanh toán hóa đơn hoặc giới hạn ngân sách nữa. Kiểm soát lịch trình tài chính của bạn với các thông báo thông minh."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Ứng dụng này dành cho ai?",
+    "items": {
+      "i1": "Những người đang tìm kiếm ứng dụng theo dõi ngân sách",
+      "i2": "Những người muốn theo dõi thu nhập và chi tiêu",
+      "i3": "Người dùng muốn kiểm soát chi phí thông qua theo dõi chi tiêu",
+      "i4": "Cá nhân ghi chép các khoản chi tiêu hàng ngày",
+      "i5": "Người dùng tìm kiếm trình lập kế hoạch ngân sách",
+      "i6": "Những người tìm kiếm ứng dụng quản lý tiền bạc",
+      "i7": "Người muốn theo dõi các khoản nợ và hóa đơn",
+      "i8": "Cá nhân hướng tới mục tiêu tiết kiệm và tích lũy tiền"
+    }
+  },
+  "whyUs": {
+    "title": "Tại sao nên chọn ứng dụng này?",
+    "items": {
+      "i1": "Sử dụng đơn giản và rõ ràng",
+      "i2": "Ghi chép thu nhập và chi tiêu nhanh chóng",
+      "i3": "Phân tích chi tiêu chi tiết",
+      "i4": "Theo dõi ngân sách nhanh và trực quan",
+      "i5": "Công cụ quản lý tiền bạc mạnh mẽ"
+    }
+  },
+  "testimonials": {
+    "title": "Được hàng ngàn người dùng tin dùng",
+    "subtitle": "Hãy tham gia cùng những người đã thay đổi đời sống tài chính của họ với Spendoa.",
+    "users": {
+      "u1": {
+        "text": "Trợ lý AI thực sự là một cuộc cách mạng! Nó cho tôi biết chính xác tôi đang chi tiêu quá mức ở đâu và đưa ra những lời khuyên thiết thực.",
+        "name": "Selin Y.",
+        "role": "Người dùng đã xác thực"
+      },
+      "u2": {
+        "text": "Tính năng quét biên lai giúp tôi tiết kiệm rất nhiều thời gian. Đây chắc chắn là ứng dụng theo dõi chi tiêu tốt nhất tôi từng dùng.",
+        "name": "Murat K.",
+        "role": "Người dùng đã xác thực"
+      },
+      "u3": {
+        "text": "Cuối cùng cũng có một ứng dụng quản lý cả các đăng ký định kỳ và mục tiêu tiết kiệm của tôi trong một giao diện sạch sẽ.",
+        "name": "Ayşe D.",
+        "role": "Người dùng đã xác thực"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa là ứng dụng quản lý tài chính hỗ trợ AI giúp bạn theo dõi chi tiêu, quản lý các đăng ký và tiết kiệm tiền.",
+    "navigation": "Menu",
+    "contact": "Liên hệ",
+    "faq": "Câu hỏi thường gặp",
+    "feature_request": "Yêu cầu tính năng",
+    "social": "Theo dõi chúng tôi",
+    "copyright": "© 2026 Spendoa. Bảo lưu mọi quyền."
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Mọi thứ bạn cần biết về Spendoa",
+    "back": "Quay lại Trang chủ",
+    "categories": {
+      "general": {
+        "title": "Chung",
+        "items":[
+          {
+            "q": "Spendoa có hoạt động ngoại tuyến không?",
+            "a": "Có. Spendoa ưu tiên hoạt động ngoại tuyến (offline-first). Ngay cả khi không có internet, bạn vẫn có thể xem các giao dịch và báo cáo trong quá khứ. Vì lý do bảo mật, việc thêm giao dịch mới yêu cầu kết nối internet."
+          },
+          {
+            "q": "Dữ liệu của tôi được lưu trữ ở đâu?",
+            "a": "Dữ liệu của bạn được lưu trữ an toàn trên các máy chủ từ xa được mã hóa. Ngay cả khi bạn đổi thiết bị, bạn vẫn có thể truy cập dữ liệu bằng cách đăng nhập vào tài khoản của mình."
+          },
+          {
+            "q": "Spendoa yêu cầu những quyền gì?",
+            "a": "Nó chỉ yêu cầu quyền Thông báo để gửi lời nhắc cho bạn. Spendoa không yêu cầu quyền truy cập camera, danh bạ hoặc vị trí."
+          },
+          {
+            "q": "Ứng dụng có hỗ trợ widget không?",
+            "a": "Có. Bạn có thể thêm widget Spendoa vào màn hình chính để nhanh chóng kiểm tra trạng thái tài khoản và giới hạn còn lại mà không cần mở ứng dụng."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Tài khoản",
+        "items":[
+          {
+            "q": "Tôi có thể tạo nhiều tài khoản không?",
+            "a": "Có. Bạn có thể tạo không giới hạn các Tài khoản, Thẻ tín dụng, Tài khoản ngân hàng, Tiền mặt hoặc Tài sản."
+          },
+          {
+            "q": "Tại sao dữ liệu thay đổi khi tôi chuyển đổi tài khoản?",
+            "a": "Mỗi tài khoản trong Spendoa là độc lập. Khi bạn chuyển tài khoản, đơn vị tiền tệ, số liệu thống kê và lịch sử của tài khoản đó sẽ được tải."
+          },
+          {
+            "q": "Tôi có thể chuyển tiền giữa các tài khoản không?",
+            "a": "Có. Bạn có thể dễ dàng thêm các giao dịch chuyển tiền, chẳng hạn như chuyển tiền từ tài khoản tiền mặt sang thẻ tín dụng hoặc tài khoản tiết kiệm của mình."
+          },
+          {
+            "q": "Tôi có thể sử dụng các đơn vị tiền tệ khác nhau không?",
+            "a": "Có. Bạn có thể đặt đơn vị tiền tệ khác nhau cho mỗi tài khoản. Trong khi chuyển khoản, Spendoa lấy tỷ giá hối đoái trực tiếp và tự động chuyển đổi."
+          },
+          {
+            "q": "Tỷ giá hối đoái được cập nhật bao lâu một lần?",
+            "a": "Tỷ giá hối đoái được sử dụng trong các lần chuyển khoản được lấy theo thời gian thực từ thị trường toàn cầu khi bạn có kết nối internet."
+          },
+          {
+            "q": "Tôi có thể sử dụng tài khoản chung không?",
+            "a": "Spendoa được thiết kế để sử dụng cá nhân. Tuy nhiên, bạn có thể quản lý cùng một dữ liệu với đối tác nếu cả hai cùng đăng nhập bằng một tài khoản Google."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Giao dịch",
+        "items":[
+          {
+            "q": "Làm thế nào để thêm một khoản mua trả góp?",
+            "a": "Khi thêm chi phí, hãy chọn 'Thanh toán trả góp'. Nhập tổng số tiền và số lần trả góp; ứng dụng sẽ tự động chia số tiền cho các tháng."
+          },
+          {
+            "q": "Làm cách nào để theo dõi các khoản nợ và phải thu?",
+            "a": "Sử dụng mô-đun 'Nợ & Phải thu' trong menu. Thêm một người để dễ dàng theo dõi xem bạn nợ bao nhiêu hoặc ai nợ bạn bao nhiêu."
+          },
+          {
+            "q": "Tôi nên ghi lại các khoản thanh toán thẻ tín dụng như thế nào?",
+            "a": "Hãy ghi lại chúng dưới dạng giao dịch 'Chuyển tiền'. Chuyển tiền từ tài khoản ngân hàng sang tài khoản Thẻ tín dụng để chi tiêu của bạn không bị tính hai lần."
+          },
+          {
+            "q": "Giao dịch định kỳ hoạt động như thế nào?",
+            "a": "Mỗi tài khoản đều có các quy tắc thu nhập/chi tiêu định kỳ riêng. Khi đến ngày đã lên lịch, giao dịch sẽ được tự động thêm vào."
+          }
+        ]
+      },
+      "security": {
+        "title": "Bảo mật",
+        "items":[
+          {
+            "q": "Tôi có thể khóa ứng dụng không?",
+            "a": "Có. Bạn có thể bật Xác thực sinh trắc học (Vân tay/Face ID) trong Cài đặt. Tính năng này hoàn toàn miễn phí."
+          },
+          {
+            "q": "Ẩn số tiền là gì?",
+            "a": "Ẩn số tiền sẽ che giấu số dư của bạn ở những nơi đông người để người khác không nhìn thấy. Tính năng này miễn phí."
+          },
+          {
+            "q": "Dữ liệu của tôi có an toàn không?",
+            "a": "Có. Dữ liệu của bạn được bảo vệ bằng mã hóa tiêu chuẩn ngành. Không ai, kể cả đội ngũ Spendoa, có thể truy cập thông tin của bạn."
+          },
+          {
+            "q": "Tôi có thể xóa tài khoản của mình không?",
+            "a": "Có. Đi tới Cài đặt > Tài khoản > Xóa tài khoản của tôi để xóa vĩnh viễn tài khoản và tất cả dữ liệu liên quan."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items":[
+          {
+            "q": "Lợi ích của gói Premium là gì?",
+            "a": "Premium bao gồm các tính năng như Điểm tài chính, Dự báo tương lai, Báo cáo nâng cao và Tài khoản không giới hạn. Các tính năng kế toán cơ bản vẫn miễn phí."
+          },
+          {
+            "q": "Gói Trọn đời (Lifetime) là gì?",
+            "a": "Gói Trọn đời là hình thức mua một lần. Trả một lần và có quyền truy cập trọn đời vào tất cả các tính năng Premium."
+          },
+          {
+            "q": "Tôi đã mua Premium nhưng các tính năng chưa được kích hoạt?",
+            "a": "Nhấn 'Khôi phục giao dịch mua' trong Cài đặt. Nếu vấn đề vẫn tiếp diễn, vui lòng liên hệ với bộ phận hỗ trợ."
+          },
+          {
+            "q": "Làm thế nào để hủy đăng ký của tôi?",
+            "a": "Hủy thông qua Google Play Store > Đăng ký. Các quyền lợi của bạn sẽ tiếp tục cho đến khi kết thúc chu kỳ thanh toán hiện tại."
+          }
+        ]
+      }
+    }
+  }
+}

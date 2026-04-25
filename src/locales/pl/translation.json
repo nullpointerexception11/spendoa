@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Funkcje",
+    "testimonials": "Opinie",
+    "download": "Pobierz"
+  },
+  "hero": {
+    "headline": "Łatwe zarządzanie pieniędzmi dla Twojego budżetu",
+    "subheadline": "Kontroluj codzienne wydatki, planuj budżet i zacznij oszczędzać. Jeśli pod koniec miesiąca zastanawiasz się „Gdzie podziały się moje pieniądze?”, Spendoa jest dla Ciebie.",
+    "cta": "Pobierz Teraz"
+  },
+  "features": {
+    "title": "Wszystko, czego potrzebujesz do zarządzania pieniędzmi",
+    "subtitle": "Odkryj potężne narzędzia zaprojektowane, aby dać Ci pełną kontrolę nad Twoim życiem finansowym.",
+    "items": {
+      "ai": {
+        "title": "Asystent AI Spendoa",
+        "description": "Porozmawiaj ze swoim osobistym AI, aby uzyskać wgląd w swoje wydatki i spersonalizowane wskazówki dotyczące oszczędzania."
+      },
+      "receipts": {
+        "title": "Inteligentne skanowanie paragonów",
+        "description": "Skanuj paragony za pomocą AI i automatycznie wypełniaj szczegóły swoich wydatków."
+      },
+      "goals": {
+        "title": "Cele Oszczędnościowe",
+        "description": "Wyznaczaj niestandardowe cele oszczędnościowe i wizualnie śledź swoje postępy na drodze do finansowej wolności."
+      },
+      "recurring": {
+        "title": "Transakcje Cykliczne",
+        "description": "Łatwo zarządzaj swoimi aktywnymi subskrypcjami i stałymi miesięcznymi rachunkami w jednym miejscu."
+      },
+      "installments": {
+        "title": "Raty i Pożyczki",
+        "description": "Bezproblemowo śledź zakupy na raty, pożyczki, długi i należności."
+      },
+      "budgets": {
+        "title": "Inteligentne Budżety",
+        "description": "Twórz budżety oparte na kategoriach, aby skutecznie śledzić i kontrolować swoje miesięczne wydatki."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Wyróżnione funkcje",
+    "subtitle": "Narzędzia oparte na AI zaprojektowane, aby uprościć śledzenie wydatków i planowanie budżetu.",
+    "scanning": {
+      "title": "Inteligentne skanowanie paragonów",
+      "description": "Nie musisz wpisywać wszystkiego ręcznie. Wystarczy zrobić zdjęcie, a wydatki zostaną automatycznie wykryte i skategoryzowane."
+    },
+    "analysis": {
+      "title": "Szczegółowe śledzenie i analiza wydatków",
+      "description": "Analizuj wydatki na jedzenie, transport, czynsz i wszystkie inne za pomocą wykresów. Wykrywaj niepotrzebne wydatki i oszczędzaj pieniądze."
+    },
+    "shared": {
+      "title": "Wspólne zarządzanie budżetem",
+      "description": "Stwórz wspólny budżet z członkami rodziny, współmałżonkiem lub przyjaciółmi. Śledź dochody i wydatki razem."
+    },
+    "alerts": {
+      "title": "Limity budżetowe i alerty",
+      "description": "Ustalaj budżety oparte na kategoriach. Otrzymuj powiadomienia, gdy zbliżasz się do limitu wydatków, i zachowaj kontrolę."
+    },
+    "score": {
+      "title": "Ocena finansowa i śledzenie oszczędności",
+      "description": "Analizuj swoje nawyki wydatkowe i popraw swoją sytuację finansową. Osiągaj swoje cele, oszczędzając więcej."
+    },
+    "security": {
+      "title": "Bezpieczne przechowywanie danych",
+      "description": "Wszystkie Twoje dane finansowe są bezpiecznie przechowywane. Twoje dane należą tylko do Ciebie i są chronione na najwyższym poziomie."
+    },
+    "reports": {
+      "title": "Zaawansowane raporty finansowe",
+      "description": "Analizuj dochody i wydatki za pomocą szczegółowych tygodniowych, miesięcznych lub rocznych wykresów. Zyskaj jasny obraz swojego zdrowia finansowego."
+    },
+    "darkmode": {
+      "title": "Przyjazny dla oczu tryb ciemny",
+      "description": "Korzystaj ze Spendoa wygodnie o każdej porze dnia. Oszczędzaj baterię i chroń oczy dzięki pełnej obsłudze trybu ciemnego."
+    },
+    "reminders": {
+      "title": "Spersonalizowane przypomnienia",
+      "description": "Nigdy więcej nie przegap płatności za rachunek ani limitu budżetu. Bądź na bieżąco z kalendarzem finansowym dzięki inteligentnym powiadomieniom."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Dla kogo jest ta aplikacja?",
+    "items": {
+      "i1": "Dla szukających aplikacji do śledzenia budżetu",
+      "i2": "Dla tych, którzy chcą śledzić dochody i wydatki",
+      "i3": "Dla użytkowników chcących kontrolować koszty przez śledzenie wydatków",
+      "i4": "Dla osób rejestrujących codzienne wydatki",
+      "i5": "Dla użytkowników szukających planera budżetu",
+      "i6": "Dla szukających aplikacji do zarządzania pieniędzmi",
+      "i7": "Dla osób chcących śledzić długi i rachunki",
+      "i8": "Dla osób dążących do oszczędzania i gromadzenia pieniędzy"
+    }
+  },
+  "whyUs": {
+    "title": "Dlaczego ta aplikacja?",
+    "items": {
+      "i1": "Łatwe i przejrzyste użytkowanie",
+      "i2": "Szybkie rejestrowanie dochodów i wydatków",
+      "i3": "Szczegółowa analiza wydatków",
+      "i4": "Szybkie i intuicyjne śledzenie budżetu",
+      "i5": "Potężne narzędzia do zarządzania pieniędzmi"
+    }
+  },
+  "testimonials": {
+    "title": "Uwielbiana przez tysiące użytkowników",
+    "subtitle": "Dołącz do ludzi, którzy zmienili swoje życie finansowe ze Spendoa.",
+    "users": {
+      "u1": {
+        "text": "Asystent AI to prawdziwa rewolucja! Mówi mi dokładnie, gdzie wydaję za dużo i daje praktyczne porady.",
+        "name": "Selin Y.",
+        "role": "Zweryfikowany Użytkownik"
+      },
+      "u2": {
+        "text": "Funkcja skanowania paragonów oszczędza mi mnóstwo czasu. To zdecydowanie najlepsza aplikacja do śledzenia wydatków, z jakiej korzystałem.",
+        "name": "Murat K.",
+        "role": "Zweryfikowany Użytkownik"
+      },
+      "u3": {
+        "text": "Wreszcie aplikacja, która zarządza moimi cyklicznymi subskrypcjami i celami oszczędnościowymi w jednym czystym interfejsie.",
+        "name": "Ayşe D.",
+        "role": "Zweryfikowany Użytkownik"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa to aplikacja do zarządzania finansami oparta na AI, która pomaga śledzić wydatki, zarządzać subskrypcjami i oszczędzać pieniądze.",
+    "navigation": "Menu",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "feature_request": "Zgłoś Funkcję",
+    "social": "Śledź Nas",
+    "copyright": "© 2026 Spendoa. Wszelkie prawa zastrzeżone."
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "subtitle": "Wszystko, co musisz wiedzieć o Spendoa",
+    "back": "Wróć do Strony Głównej",
+    "categories": {
+      "general": {
+        "title": "Ogólne",
+        "items": [
+          {
+            "q": "Czy Spendoa działa offline?",
+            "a": "Tak. Spendoa działa głównie w trybie offline (offline-first). Nawet bez połączenia z internetem możesz przeglądać swoje przeszłe transakcje i raporty. Ze względów bezpieczeństwa dodawanie nowych transakcji wymaga połączenia z internetem."
+          },
+          {
+            "q": "Gdzie są przechowywane moje dane?",
+            "a": "Twoje dane są bezpiecznie przechowywane na zaszyfrowanych zdalnych serwerach. Nawet jeśli zmienisz urządzenie, możesz uzyskać dostęp do swoich danych, logując się na swoje konto."
+          },
+          {
+            "q": "Jakich uprawnień wymaga Spendoa?",
+            "a": "Wymaga jedynie uprawnienia do Powiadomień, aby wysyłać Ci przypomnienia. Spendoa nie wymaga uprawnień do aparatu, kontaktów ani lokalizacji."
+          },
+          {
+            "q": "Czy aplikacja obsługuje widżety?",
+            "a": "Tak. Możesz dodać widżet Spendoa do ekranu głównego, aby szybko sprawdzić stan konta i pozostały limit bez otwierania aplikacji."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Konta",
+        "items": [
+          {
+            "q": "Czy mogę utworzyć wiele kont?",
+            "a": "Tak. Możesz utworzyć nieograniczoną liczbę Kont, Kart Kredytowych, Kont Bankowych, Gotówki lub Aktywów."
+          },
+          {
+            "q": "Dlaczego dane zmieniają się, gdy zmieniam konto?",
+            "a": "Każde konto w Spendoa jest niezależne. Gdy zmieniasz konto, ładowana jest waluta, statystyki i historia tego konkretnego konta."
+          },
+          {
+            "q": "Czy mogę przesyłać pieniądze między kontami?",
+            "a": "Tak. Możesz łatwo dodawać transakcje przelewów, takie jak przesyłanie środków z konta gotówkowego na kartę kredytową lub konto oszczędnościowe."
+          },
+          {
+            "q": "Czy mogę używać różnych walut?",
+            "a": "Tak. Możesz ustawić inną walutę dla każdego konta. Podczas przelewów Spendoa pobiera aktualne kursy wymiany i automatycznie je przelicza."
+          },
+          {
+            "q": "Jak często aktualizowane są kursy wymiany?",
+            "a": "Kursy wymiany używane w przelewach są pobierane w czasie rzeczywistym z rynków globalnych, o ile masz połączenie z internetem."
+          },
+          {
+            "q": "Czy mogę korzystać ze współdzielonego konta?",
+            "a": "Spendoa jest przeznaczona do użytku indywidualnego. Możesz jednak zarządzać tymi samymi danymi wraz z partnerem, jeśli oboje zalogujecie się przy użyciu tego samego konta Google."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transakcje",
+        "items": [
+          {
+            "q": "Jak dodać zakupy na raty?",
+            "a": "Dodając wydatek, wybierz 'Płatność w ratach'. Wprowadź całkowitą kwotę i liczbę rat; aplikacja automatycznie podzieli kwotę na miesiące."
+          },
+          {
+            "q": "Jak mogę śledzić moje długi i należności?",
+            "a": "Użyj modułu 'Długi i Należności' w menu. Dodaj osobę, aby łatwo śledzić, ile jesteś winien lub ile inni są winni Tobie."
+          },
+          {
+            "q": "Jak powinienem rejestrować płatności kartą kredytową?",
+            "a": "Zarejestruj je jako transakcję 'Przelew'. Przelej pieniądze ze swojego konta bankowego na konto Karty Kredytowej, aby Twoje wydatki nie były liczone podwójnie."
+          },
+          {
+            "q": "Jak działają transakcje cykliczne?",
+            "a": "Każde konto ma własne zasady cyklicznych dochodów/wydatków. Kiedy nadejdzie zaplanowana data, transakcja zostanie dodana automatycznie."
+          }
+        ]
+      },
+      "security": {
+        "title": "Bezpieczeństwo",
+        "items": [
+          {
+            "q": "Czy mogę zablokować aplikację?",
+            "a": "Tak. Możesz włączyć Uwierzytelnianie Biometryczne (Odcisk palca/Face ID) w Ustawieniach. Ta funkcja jest darmowa."
+          },
+          {
+            "q": "Czym jest ukrywanie kwot?",
+            "a": "Ukrywanie Kwot maskuje Twoje saldo w zatłoczonych miejscach, aby inni nie mogli go zobaczyć. Ta funkcja jest darmowa."
+          },
+          {
+            "q": "Czy moje dane są bezpieczne?",
+            "a": "Tak. Twoje dane są chronione za pomocą standardowego szyfrowania branżowego. Nikt, w tym zespół Spendoa, nie ma dostępu do Twoich informacji."
+          },
+          {
+            "q": "Czy mogę usunąć moje konto?",
+            "a": "Tak. Przejdź do Ustawienia > Konto > Usuń Moje Konto, aby trwale usunąć swoje konto i wszystkie powiązane z nim dane."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Jakie są korzyści z Premium?",
+            "a": "Premium obejmuje funkcje takie jak Ocena Finansowa, Prognoza na Przyszłość, Zaawansowane Raporty i Nieograniczone Konta. Podstawowe funkcje księgowe pozostają darmowe."
+          },
+          {
+            "q": "Czym jest plan Dożywotni (Lifetime)?",
+            "a": "Pakiet Dożywotni to jednorazowy zakup. Zapłać raz i uzyskaj dożywotni dostęp do wszystkich funkcji Premium."
+          },
+          {
+            "q": "Kupiłem Premium, ale funkcje nie są aktywowane?",
+            "a": "Stuknij 'Przywróć Zakupy' w Ustawieniach. Jeśli problem nie ustąpi, skontaktuj się z obsługą klienta."
+          },
+          {
+            "q": "Jak anulować subskrypcję?",
+            "a": "Anuluj przez Sklep Google Play > Subskrypcje. Twoje korzyści zostaną utrzymane do końca bieżącego okresu rozliczeniowego."
+          }
+        ]
+      }
+    }
+  }
+}

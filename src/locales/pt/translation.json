@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "testimonials": "Avaliações",
+    "download": "Baixar"
+  },
+  "hero": {
+    "headline": "Gestão de dinheiro fácil para o seu orçamento",
+    "subheadline": "Controle as suas despesas diárias, planeie o seu orçamento e comece a poupar. Se no fim do mês se pergunta \"Para onde foi o meu dinheiro?\", a Spendoa é para si.",
+    "cta": "Baixar Agora"
+  },
+  "features": {
+    "title": "Tudo o que precisa para gerir o seu dinheiro",
+    "subtitle": "Descubra ferramentas poderosas desenhadas para lhe dar controlo total sobre a sua vida financeira.",
+    "items": {
+      "ai": {
+        "title": "Assistente IA Spendoa",
+        "description": "Converse com a sua IA pessoal para obter análises sobre os seus gastos e dicas de poupança personalizadas."
+      },
+      "receipts": {
+        "title": "Digitalização Inteligente de Recibos",
+        "description": "Digitalize os seus recibos com IA e preencha automaticamente os detalhes das suas despesas."
+      },
+      "goals": {
+        "title": "Metas de Poupança",
+        "description": "Defina metas de poupança personalizadas e acompanhe visualmente o seu progresso rumo à liberdade financeira."
+      },
+      "recurring": {
+        "title": "Transações Recorrentes",
+        "description": "Faça a gestão fácil das suas assinaturas ativas e contas mensais regulares num só lugar."
+      },
+      "installments": {
+        "title": "Prestações e Empréstimos",
+        "description": "Acompanhe as suas compras a prestações, empréstimos, dívidas e recebimentos de forma contínua."
+      },
+      "budgets": {
+        "title": "Orçamentos Inteligentes",
+        "description": "Crie orçamentos baseados em categorias para acompanhar e controlar eficazmente os seus gastos mensais."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Recursos em destaque",
+    "subtitle": "Ferramentas baseadas em IA concebidas para simplificar o controlo das suas despesas e o planeamento do orçamento.",
+    "scanning": {
+      "title": "Digitalização inteligente de recibos",
+      "description": "Não precisa digitar tudo manualmente. Basta tirar uma foto e as despesas são detetadas e categorizadas automaticamente."
+    },
+    "analysis": {
+      "title": "Acompanhamento e análise detalhada de despesas",
+      "description": "Analise alimentação, transportes, rendas e todas as outras despesas com gráficos. Descubra gastos desnecessários e poupe dinheiro."
+    },
+    "shared": {
+      "title": "Gestão de orçamento partilhado",
+      "description": "Crie um orçamento partilhado com familiares, o seu cônjuge ou amigos. Acompanhem as receitas e despesas em conjunto."
+    },
+    "alerts": {
+      "title": "Limites de orçamento e alertas",
+      "description": "Defina orçamentos por categoria. Seja notificado quando se aproximar do seu limite de gastos e mantenha o controlo."
+    },
+    "score": {
+      "title": "Pontuação financeira e acompanhamento de poupanças",
+      "description": "Analise os seus hábitos de consumo e melhore a sua situação financeira. Alcance as suas metas poupando mais."
+    },
+    "security": {
+      "title": "Armazenamento seguro de dados",
+      "description": "Todos os seus dados financeiros são armazenados de forma segura. Os seus dados pertencem apenas a si e estão protegidos ao mais alto nível."
+    },
+    "reports": {
+      "title": "Relatórios financeiros avançados",
+      "description": "Analyse as suas receitas e despesas com gráficos detalhados semanais, mensais ou anuais. Obtenha uma visão clara da sua saúde financeira."
+    },
+    "darkmode": {
+      "title": "Modo escuro confortável",
+      "description": "Utilize a Spendoa confortavelmente a qualquer hora do dia. Poupe a bateria e proteja os seus olhos com suporte total ao modo escuro."
+    },
+    "reminders": {
+      "title": "Lembretes personalizados",
+      "description": "Nunca mais perca o pagamento de uma conta ou o limite de um orçamento. Mantenha o controlo do seu calendário financeiro com notificações inteligentes."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Para quem é esta aplicação?",
+    "items": {
+      "i1": "Quem procura uma aplicação de controlo de orçamento",
+      "i2": "Aqueles que pretendem controlar receitas e despesas",
+      "i3": "Utilizadores que desejam controlar custos através do registo de despesas",
+      "i4": "Pessoas que registam despesas diárias",
+      "i5": "Utilizadores à procura de um planeador de orçamento",
+      "i6": "Quem procura aplicações de gestão de dinheiro",
+      "i7": "Pessoas que querem acompanhar dívidas e contas",
+      "i8": "Indivíduos que têm o objetivo de poupar e acumular dinheiro"
+    }
+  },
+  "whyUs": {
+    "title": "Porquê esta aplicação?",
+    "items": {
+      "i1": "Uso fácil e claro",
+      "i2": "Registo rápido de receitas e despesas",
+      "i3": "Análise detalhada de despesas",
+      "i4": "Acompanhamento de orçamento rápido e intuitivo",
+      "i5": "Ferramentas poderosas de gestão de dinheiro"
+    }
+  },
+  "testimonials": {
+    "title": "Adorada por milhares de utilizadores",
+    "subtitle": "Junte-se às pessoas que transformaram a sua vida financeira com a Spendoa.",
+    "users": {
+      "u1": {
+        "text": "O assistente IA é uma verdadeira revolução! Diz-me exatamente onde estou a gastar demasiado e dá-me conselhos práticos.",
+        "name": "Selin Y.",
+        "role": "Utilizador Verificado"
+      },
+      "u2": {
+        "text": "A funcionalidade de digitalização de recibos poupa-me muito tempo. É, de longe, a melhor aplicação de acompanhamento de despesas que já usei.",
+        "name": "Murat K.",
+        "role": "Utilizador Verificado"
+      },
+      "u3": {
+        "text": "Finalmente uma aplicação que faz a gestão das minhas assinaturas recorrentes e metas de poupança numa interface limpa.",
+        "name": "Ayşe D.",
+        "role": "Utilizador Verificado"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa é uma aplicação de gestão financeira impulsionada por IA que o ajuda a monitorizar despesas, gerir assinaturas e poupar dinheiro.",
+    "navigation": "Menu",
+    "contact": "Contacto",
+    "faq": "Perguntas Frequentes",
+    "feature_request": "Sugerir um Recurso",
+    "social": "Siga-nos",
+    "copyright": "© 2026 Spendoa. Todos os direitos reservados."
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Tudo o que precisa saber sobre a Spendoa",
+    "back": "Voltar à Página Inicial",
+    "categories": {
+      "general": {
+        "title": "Geral",
+        "items": [
+          {
+            "q": "A Spendoa funciona offline?",
+            "a": "Sim. A Spendoa funciona primeiro offline (offline-first). Mesmo sem ligação à internet, pode visualizar as suas transações passadas e relatórios. Por razões de segurança, adicionar novas transações requer ligação à internet."
+          },
+          {
+            "q": "Onde estão armazenados os meus dados?",
+            "a": "Os seus dados estão armazenados de forma segura em servidores remotos encriptados. Mesmo que troque de dispositivo, pode aceder aos seus dados iniciando sessão na sua conta."
+          },
+          {
+            "q": "Que permissões exige a Spendoa?",
+            "a": "Apenas solicita permissão de Notificação para lhe enviar lembretes. A Spendoa não exige permissões de câmara, contactos ou localização."
+          },
+          {
+            "q": "A aplicação suporta widgets?",
+            "a": "Sim. Pode adicionar o widget da Spendoa à sua tela inicial para verificar rapidamente o saldo da sua conta e o limite restante sem abrir a aplicação."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Contas",
+        "items": [
+          {
+            "q": "Posso criar múltiplas contas?",
+            "a": "Sim. Pode criar um número ilimitado de Contas, Cartões de Crédito, Contas Bancárias, Dinheiro Vivo ou Ativos."
+          },
+          {
+            "q": "Por que os dados mudam quando troco de conta?",
+            "a": "Cada conta na Spendoa é independente. Ao trocar de conta, são carregadas a moeda, as estatísticas e o histórico específicos dessa conta."
+          },
+          {
+            "q": "Posso transferir dinheiro entre contas?",
+            "a": "Sim. Pode facilmente adicionar transações de transferência, como mover fundos da sua conta a dinheiro para o cartão de crédito ou conta poupança."
+          },
+          {
+            "q": "Posso usar moedas diferentes?",
+            "a": "Sim. Pode definir uma moeda diferente for cada conta. Durante as transferências, a Spendoa obtém taxas de câmbio em tempo real e faz a conversão automaticamente."
+          },
+          {
+            "q": "Com que frequência são atualizadas as taxas de câmbio?",
+            "a": "As taxas de câmbio usadas nas transferências são obtidas em tempo real dos mercados globais, desde que tenha ligação à internet."
+          },
+          {
+            "q": "Posso usar uma conta partilhada?",
+            "a": "A Spendoa foi desenhada para uso individual. No entanto, pode gerir os mesmos dados com o seu parceiro se ambos iniciarem sessão usando a mesma conta do Google."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transações",
+        "items": [
+          {
+            "q": "Como adiciono compras a prestações?",
+            "a": "Ao adicionar uma despesa, selecione 'Pagamento a Prestações'. Introduza o montante total e o número de prestações; a aplicação dividirá automaticamente o montante pelos meses."
+          },
+          {
+            "q": "Como posso controlar as minhas dívidas e recebimentos?",
+            "a": "Use o módulo 'Dívidas e Recebimentos' no menu. Adicione uma pessoa para controlar facilmente quanto deve ou quanto lhe devem."
+          },
+          {
+            "q": "Como devo registar os pagamentos com cartão de crédito?",
+            "a": "Registe-os como uma transação de 'Transferência'. Transfira dinheiro da sua conta bancária para a conta do Cartão de Crédito para que as suas despesas não sejam contadas duas vezes."
+          },
+          {
+            "q": "Como funcionam as transações recorrentes?",
+            "a": "Cada conta tem as suas próprias regras de receitas/despesas recorrentes. Quando chega a data programada, a transação é adicionada automaticamente."
+          }
+        ]
+      },
+      "security": {
+        "title": "Segurança",
+        "items": [
+          {
+            "q": "Posso bloquear a aplicação?",
+            "a": "Sim. Pode ativar a Autenticação Biométrica (Impressão digital/Face ID) nas Configurações. Este recurso é gratuito."
+          },
+          {
+            "q": "O que é a ocultação de montantes?",
+            "a": "A Ocultação de Montantes esconde os seus saldos em ambientes movimentados para que outros não os possam ver. Este recurso é gratuito."
+          },
+          {
+            "q": "Os meus dados estão seguros?",
+            "a": "Sim. Os seus dados são protegidos com encriptação padrão da indústria. Ninguém, incluindo a equipa da Spendoa, pode aceder às suas informações."
+          },
+          {
+            "q": "Posso apagar a minha conta?",
+            "a": "Sim. Vá a Configurações > Conta > Eliminar a Minha Conta para apagar permanentemente a sua conta e todos os dados associados."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Quais são as vantagens do Premium?",
+            "a": "O Premium inclui recursos como Pontuação Financeira, Previsão Futura, Relatórios Avançados e Contas Ilimitadas. As funcionalidades básicas de contabilidade continuam a ser gratuitas."
+          },
+          {
+            "q": "O que é o plano Vitalício (Lifetime)?",
+            "a": "Vitalício é uma compra única. Pague apenas uma vez e tenha acesso vitalício a todos os recursos Premium."
+          },
+          {
+            "q": "Comprei o Premium mas os recursos não estão ativados?",
+            "a": "Toque em 'Restaurar Compras' nas Configurações. Se o problema persistir, por favor, contacte o suporte."
+          },
+          {
+            "q": "Como cancelo a minha assinatura?",
+            "a": "Cancele através da Google Play Store > Assinaturas. Os seus benefícios continuarão até ao final do período de faturação atual."
+          }
+        ]
+      }
+    }
+  }
+}

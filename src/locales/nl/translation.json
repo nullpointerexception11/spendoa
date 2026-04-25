@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Functies",
+    "testimonials": "Beoordelingen",
+    "download": "Downloaden"
+  },
+  "hero": {
+    "headline": "Eenvoudig geldbeheer voor jouw budget",
+    "subheadline": "Beheer je dagelijkse uitgaven, plan je budget en begin met sparen. Als je je aan het eind van de maand afvraagt \"Waar is mijn geld gebleven?\", dan is Spendoa iets voor jou.",
+    "cta": "Nu Downloaden"
+  },
+  "features": {
+    "title": "Alles wat je nodig hebt om je geld te beheren",
+    "subtitle": "Ontdek krachtige tools die zijn ontworpen om je volledige controle te geven over je financiële leven.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI Assistent",
+        "description": "Chat met je persoonlijke AI voor inzicht in je uitgaven en gepersonaliseerde bespaartips."
+      },
+      "receipts": {
+        "title": "Slimme Bonnen Scanner",
+        "description": "Scan je bonnen met AI en vul je uitgavendetails automatisch in."
+      },
+      "goals": {
+        "title": "Spaardoelen",
+        "description": "Stel aangepaste spaardoelen in en volg visueel je voortgang naar financiële vrijheid."
+      },
+      "recurring": {
+        "title": "Terugkerende Transacties",
+        "description": "Beheer eenvoudig je actieve abonnementen en vaste maandelijkse rekeningen op één plek."
+      },
+      "installments": {
+        "title": "Termijnen & Leningen",
+        "description": "Volg je aankopen op afbetaling, leningen, schulden en vorderingen naadloos."
+      },
+      "budgets": {
+        "title": "Slimme Budgetten",
+        "description": "Maak op categorieën gebaseerde budgetten om je maandelijkse uitgaven effectief bij te houden en te beheersen."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Uitgelichte functies",
+    "subtitle": "AI-gestuurde tools ontworpen om je uitgavenregistratie en budgetplanning te vereenvoudigen.",
+    "scanning": {
+      "title": "Slimme bonnen scanner",
+      "description": "Je hoeft niet alles handmatig in te typen. Maak gewoon een foto, en uitgaven worden automatisch gedetecteerd en gecategoriseerd."
+    },
+    "analysis": {
+      "title": "Gedetailleerde uitgavenanalyse",
+      "description": "Analyseer eten, vervoer, huur en al je andere uitgaven met grafieken. Ontdek onnodige uitgaven en bespaar geld."
+    },
+    "shared": {
+      "title": "Gezamenlijk budgetbeheer",
+      "description": "Maak een gedeeld budget met familieleden, je partner of vrienden. Houd inkomsten en uitgaven samen bij."
+    },
+    "alerts": {
+      "title": "Budgetlimieten & waarschuwingen",
+      "description": "Stel budgetten in op categoriebasis. Krijg een melding als je je uitgavenlimiet nadert en houd de controle."
+    },
+    "score": {
+      "title": "Financiële score & spaartracking",
+      "description": "Analyseer je uitgavenpatroon en verbeter je financiële situatie. Bereik je doelen door meer te sparen."
+    },
+    "security": {
+      "title": "Veilige gegevensopslag",
+      "description": "Al je financiële gegevens worden veilig opgeslagen. Je gegevens zijn alleen van jou en worden op het hoogste niveau beschermd."
+    },
+    "reports": {
+      "title": "Geavanceerde financiële rapporten",
+      "description": "Analyseer je inkomsten en uitgaven met gedetailleerde wekelijkse, maandelijkse of jaarlijkse grafieken. Krijg een helder beeld van je financiële gezondheid."
+    },
+    "darkmode": {
+      "title": "Oogvriendelijke donkere modus",
+      "description": "Gebruik Spendoa comfortabel op elk moment van de dag. Bespaar batterij en bescherm je ogen met volledige ondersteuning voor de donkere modus."
+    },
+    "reminders": {
+      "title": "Gepersonaliseerde herinneringen",
+      "description": "Mis nooit meer een factuurbetaling of budgetlimiet. Houd de controle over je financiële kalender met slimme meldingen."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Voor wie is deze app?",
+    "items": {
+      "i1": "Mensen die op zoek zijn naar een budget-tracker",
+      "i2": "Degenen die inkomsten en uitgaven willen bijhouden",
+      "i3": "Gebruikers die kosten willen beheersen via uitgavenregistratie",
+      "i4": "Personen die dagelijkse uitgaven registreren",
+      "i5": "Gebruikers die een budgetplanner zoeken",
+      "i6": "Degenen die op zoek zijn naar apps voor geldbeheer",
+      "i7": "Mensen die schulden en rekeningen willen bijhouden",
+      "i8": "Individuen met als doel geld te sparen en op te bouwen"
+    }
+  },
+  "whyUs": {
+    "title": "Waarom deze app?",
+    "items": {
+      "i1": "Eenvoudig en duidelijk in gebruik",
+      "i2": "Snelle invoer van inkomsten en uitgaven",
+      "i3": "Gedetailleerde uitgavenanalyse",
+      "i4": "Snelle en intuïtieve budgetregistratie",
+      "i5": "Krachtige tools voor geldbeheer"
+    }
+  },
+  "testimonials": {
+    "title": "Geliefd bij duizenden gebruikers",
+    "subtitle": "Sluit je aan bij de mensen die hun financiële leven hebben getransformeerd met Spendoa.",
+    "users": {
+      "u1": {
+        "text": "De AI-assistent is een echte gamechanger! Het vertelt me precies waar ik te veel aan uitgeef en geeft praktisch advies.",
+        "name": "Selin Y.",
+        "role": "Geverifieerde Gebruiker"
+      },
+      "u2": {
+        "text": "De bonnenscanner bespaart me zoveel tijd. Het is veruit de beste uitgaven-app die ik ooit heb gebruikt.",
+        "name": "Murat K.",
+        "role": "Geverifieerde Gebruiker"
+      },
+      "u3": {
+        "text": "Eindelijk een app die zowel mijn vaste abonnementen als mijn spaardoelen beheert in één overzichtelijke interface.",
+        "name": "Ayşe D.",
+        "role": "Geverifieerde Gebruiker"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa is een AI-aangedreven financiële beheer-app die je helpt uitgaven bij te houden, abonnementen te beheren en geld te besparen.",
+    "navigation": "Menu",
+    "contact": "Contact",
+    "faq": "Veelgestelde Vragen",
+    "feature_request": "Functie Aanvragen",
+    "social": "Volg Ons",
+    "copyright": "© 2026 Spendoa. Alle rechten voorbehouden."
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "subtitle": "Alles wat je moet weten over Spendoa",
+    "back": "Terug naar Home",
+    "categories": {
+      "general": {
+        "title": "Algemeen",
+        "items": [
+          {
+            "q": "Werkt Spendoa offline?",
+            "a": "Ja. Spendoa is ontworpen om eerst offline (offline-first) te werken. Zelfs zonder internetverbinding kun je eerdere transacties en rapporten bekijken. Om veiligheidsredenen is voor het toevoegen van nieuwe transacties een internetverbinding vereist."
+          },
+          {
+            "q": "Waar worden mijn gegevens opgeslagen?",
+            "a": "Je gegevens worden veilig opgeslagen op versleutelde externe servers. Zelfs als je van apparaat wisselt, heb je toegang tot je gegevens door in te loggen op je account."
+          },
+          {
+            "q": "Welke machtigingen vereist Spendoa?",
+            "a": "Het vraagt alleen om de meldingsmachtiging om je herinneringen te sturen. Spendoa heeft geen toegang nodig tot je camera, contacten of locatie."
+          },
+          {
+            "q": "Ondersteunt de app widgets?",
+            "a": "Ja. Je kunt de Spendoa-widget aan je startscherm toevoegen om snel je accountsaldo en resterende limiet te controleren zonder de app te openen."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Accounts",
+        "items": [
+          {
+            "q": "Kan ik meerdere accounts aanmaken?",
+            "a": "Ja. Je kunt onbeperkt Accounts, Creditcards, Bankrekeningen, Contant of Bezittingen aanmaken."
+          },
+          {
+            "q": "Waarom veranderen de gegevens als ik van account wissel?",
+            "a": "Elk account in Spendoa is onafhankelijk. Wanneer je van account wisselt, worden de valuta, statistieken en geschiedenis van dat specifieke account geladen."
+          },
+          {
+            "q": "Kan ik geld overmaken tussen accounts?",
+            "a": "Ja. Je kunt eenvoudig overboekingen toevoegen, zoals geld overmaken van je contante rekening naar je creditcard of spaarrekening."
+          },
+          {
+            "q": "Kan ik verschillende valuta's gebruiken?",
+            "a": "Ja. Kan voor elk account een andere valuta instellen. Bij overboekingen haalt Spendoa live wisselkoersen op en wordt dit automatisch geconverteerd."
+          },
+          {
+            "q": "Hoe vaak worden wisselkoersen bijgewerkt?",
+            "a": "Wisselkoersen voor overboekingen worden in realtime opgehaald van wereldwijde markten, zolang je verbonden bent met internet."
+          },
+          {
+            "q": "Kan ik een gedeeld account gebruiken?",
+            "a": "Spendoa is ontworpen for individueel gebruik. Je kunt echter dezelfde gegevens met je partner beheren als jullie beiden inloggen met hetzelfde Google-account."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transacties",
+        "items": [
+          {
+            "q": "Hoe voeg ik aankopen op afbetaling toe?",
+            "a": "Kies bij het toevoegen van een uitgave voor 'Betaling in termijnen'. Voer het totale bedrag en het aantal termijnen in; de app verdeelt het bedrag automatisch over de maanden."
+          },
+          {
+            "q": "Hoe kan ik mijn schulden en vorderingen bijhouden?",
+            "a": "Gebruik de module 'Schulden & Vorderingen' in het menu. Voeg een persoon toe om gemakkelijk bij te houden hoeveel je schuldig bent of hoeveel je tegoed hebt."
+          },
+          {
+            "q": "Hoe moet ik creditcardbetalingen registreren?",
+            "a": "Registreer ze als een 'Overboeking'. Maak geld over van je bankrekening naar je creditcardaccount, zodat je uitgaven niet dubbel worden geteld."
+          },
+          {
+            "q": "Hoe werken terugkerende transacties?",
+            "a": "Elk account heeft zijn eigen regels voor vaste inkomsten/uitgaven. Wanneer de geplande datum is bereikt, wordt de transactie automatisch toegevoegd."
+          }
+        ]
+      },
+      "security": {
+        "title": "Veiligheid",
+        "items": [
+          {
+            "q": "Kan ik de app vergrendelen?",
+            "a": "Ja. Je kunt Biometrische Verificatie (Vingerafdruk/Face ID) inschakelen in Instellingen. Deze functie is gratis."
+          },
+          {
+            "q": "Wat is bedragmaskering?",
+            "a": "Bedragmaskering verbergt je saldo in drukke omgevingen, zodat anderen het niet kunnen zien. Deze functie is gratis."
+          },
+          {
+            "q": "Zijn mijn gegevens veilig?",
+            "a": "Ja. Je gegevens zijn beveiligd met industriestandaard encryptie. Niemand, inclusief het Spendoa-team, heeft toegang tot je informatie."
+          },
+          {
+            "q": "Kan ik mijn account verwijderen?",
+            "a": "Ja. Ga naar Instellingen > Account > Mijn Account Verwijderen om je account en alle bijbehorende gegevens permanent te wissen."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Wat zijn de voordelen van Premium?",
+            "a": "Premium biedt functies zoals Financiële Score, Toekomstverwachting, Geavanceerde Rapporten en Onbeperkte Accounts. Basisboekhoudfuncties blijven gratis."
+          },
+          {
+            "q": "Wat is een Lifetime-pakket?",
+            "a": "Lifetime is een eenmalige aankoop. Betaal één keer en krijg levenslang toegang tot alle Premium-functies."
+          },
+          {
+            "q": "Ik heb Premium gekocht, maar de functies zijn niet geactiveerd?",
+            "a": "Tik op 'Aankopen Herstellen' in Instellingen. Neem contact op met support als het probleem aanhoudt."
+          },
+          {
+            "q": "Hoe kan ik mijn abonnement annuleren?",
+            "a": "Annuleer via Google Play Store > Abonnementen. Je voordelen blijven geldig tot het einde van de huidige factureringsperiode."
+          }
+        ]
+      }
+    }
+  }
+}

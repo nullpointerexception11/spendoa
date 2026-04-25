@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Ominaisuudet",
+    "testimonials": "Arvostelut",
+    "download": "Lataa"
+  },
+  "hero": {
+    "headline": "Helppoa rahanhallintaa budjetillesi",
+    "subheadline": "Hallitse päivittäisiä kulujasi, suunnittele budjettisi ja aloita säästäminen. Jos mietit kuun lopussa \"Mihin rahani menivät?\", Spendoa on sinua varten.",
+    "cta": "Lataa nyt"
+  },
+  "features": {
+    "title": "Kaikki mitä tarvitset rahojesi hallintaan",
+    "subtitle": "Löydä tehokkaat työkalut, jotka on suunniteltu antamaan sinulle täysi hallinta taloudestasi.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI-avustaja",
+        "description": "Keskustele henkilökohtaisen tekoälysi kanssa saadaksesi tietoa kuluistasi ja henkilökohtaisia säästövinkkejä."
+      },
+      "receipts": {
+        "title": "Älykäs kuittien skannaus",
+        "description": "Skannaa kuittisi tekoälyllä ja täytä kulutiedot automaattisesti."
+      },
+      "goals": {
+        "title": "Säästötavoitteet",
+        "description": "Aseta mukautettuja säästötavoitteita ja seuraa visuaalisesti edistymistäsi kohti taloudellista vapautta."
+      },
+      "recurring": {
+        "title": "Toistuvat tapahtumat",
+        "description": "Hallitse helposti aktiivisia tilauksiasi ja säännöllisiä kuukausittaisia laskujasi yhdessä paikassa."
+      },
+      "installments": {
+        "title": "Osamaksut ja lainat",
+        "description": "Seuraa osamaksuostoksia, lainoja, velkoja ja saatavia saumattomasti."
+      },
+      "budgets": {
+        "title": "Älykkäät budjetit",
+        "description": "Luo kategoriakohtaisia budjetteja kuukausittaisten kulujesi tehokkaaseen seurantaan ja hallintaan."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Tärkeimmät ominaisuudet",
+    "subtitle": "Tekoälypohjaiset työkalut, jotka on suunniteltu yksinkertaistamaan kulujen seurantaa ja budjetointia.",
+    "scanning": {
+      "title": "Älykäs kuittien skannaus",
+      "description": "Kaikkea ei tarvitse kirjoittaa käsin. Ota vain kuva, niin kulut tunnistetaan ja luokitellaan automaattisesti."
+    },
+    "analysis": {
+      "title": "Yksityiskohtainen kuluseuranta ja -analyysi",
+      "description": "Analysoi ruoka-, kuljetus-, vuokra- ja muut kulut kaavioiden avulla. Tunnista turhat menot ja säästä rahaa."
+    },
+    "shared": {
+      "title": "Jaettu budjetin hallinta",
+      "description": "Luo jaettu budjetti perheenjäsenten, puolisosi tai ystäviesi kanssa. Seuraa tuloja ja menoja yhdessä."
+    },
+    "alerts": {
+      "title": "Budjettirajat ja ilmoitukset",
+      "description": "Aseta kategoriakohtaisia budjetteja. Saat ilmoituksen, kun lähestyt kulutusrajaasi, ja pysyt hallinnassa."
+    },
+    "score": {
+      "title": "Taloudellinen pisteytys ja säästöjen seuranta",
+      "description": "Analysoi kulutustottumuksiasi ja paranna taloudellista tilannettasi. Saavuta tavoitteesi säästämällä enemmän."
+    },
+    "security": {
+      "title": "Turvallinen tietojen tallennus",
+      "description": "Kaikki taloudelliset tietosi tallennetaan turvallisesti. Tietosi kuuluvat vain sinulle ja ne on suojattu korkeimmalla tasolla."
+    },
+    "reports": {
+      "title": "Edistyneet talousraportit",
+      "description": "Analysoi tuloja ja menoja yksityiskohtaisilla viikoittaisilla, kuukausittaisilla tai vuosittaisilla kaavioilla. Saat selkeän kuvan taloudellisesta terveydestäsi."
+    },
+    "darkmode": {
+      "title": "Silmäystävällinen tumma tila",
+      "description": "Käytä Spendoaa mukavasti mihin vuorokauden aikaan tahansa. Säästä akkua ja suojaa silmiäsi täydellä tumman tilan tuella."
+    },
+    "reminders": {
+      "title": "Henkilökohtaiset muistutukset",
+      "description": "Älä enää koskaan missaa laskun maksua tai budjettirajaa. Pysy ajan tasalla talouskalenteristasi älykkäiden ilmoitusten avulla."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Kenelle tämä sovellus on tarkoitettu?",
+    "items": {
+      "i1": "Budjettisovellusta etsiville",
+      "i2": "Tuloja ja menoja seuraaville",
+      "i3": "Käyttäjille, jotka haluavat hallita kuluja seurannan avulla",
+      "i4": "Päivittäisiä kuluja kirjaaville",
+      "i5": "Budjettisuunnittelijaa etsiville",
+      "i6": "Rahanhallintasovelluksia etsiville",
+      "i7": "Velkoja ja laskuja seuraaville",
+      "i8": "Henkilöille, jotka pyrkivät säästämään ja keräämään rahaa"
+    }
+  },
+  "whyUs": {
+    "title": "Miksi valita tämä sovellus?",
+    "items": {
+      "i1": "Helppo ja selkeä käyttö",
+      "i2": "Nopea tulojen ja menojen kirjaus",
+      "i3": "Yksityiskohtainen kuluanalyysi",
+      "i4": "Nopea ja intuitiivinen budjetin seuranta",
+      "i5": "Tehokkaat rahanhallintatyökalut"
+    }
+  },
+  "testimonials": {
+    "title": "Tuhansien käyttäjien rakastama",
+    "subtitle": "Liity ihmisten joukkoon, jotka ovat muuttaneet talouselämänsä Spendoan avulla.",
+    "users": {
+      "u1": {
+        "text": "Tekoälyavustaja muutti kaiken! Se kertoo minulle tarkalleen, missä kulutan liikaa ja antaa toimivia neuvoja.",
+        "name": "Selin Y.",
+        "role": "Vahvistettu käyttäjä"
+      },
+      "u2": {
+        "text": "Kuittien skannaus säästää minulta niin paljon aikaa. Se on ylivoimaisesti paras kuluseurantasovellus, jota olen käyttänyt.",
+        "name": "Murat K.",
+        "role": "Vahvistettu käyttäjä"
+      },
+      "u3": {
+        "text": "Lopultakin sovellus, joka hallitsee sekä jatkuvat tilaukseni että säästötavoitteeni yhdessä puhtaassa käyttöliittymässä.",
+        "name": "Ayşe D.",
+        "role": "Vahvistettu käyttäjä"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa on tekoälyllä toimiva taloushallintasovellus, joka auttaa sinua seuraamaan kuluja, hallitsemaan tilauksia ja säästämään rahaa.",
+    "navigation": "Valikko",
+    "contact": "Yhteystiedot",
+    "faq": "UKK",
+    "feature_request": "Ominaisuuspyyntö",
+    "social": "Seuraa meitä",
+    "copyright": "© 2026 Spendoa. Kaikki oikeudet pidätetään."
+  },
+  "faq": {
+    "title": "Usein kysytyt kysymykset",
+    "subtitle": "Kaikki mitä sinun tarvitsee tietää Spendoasta",
+    "back": "Takaisin etusivulle",
+    "categories": {
+      "general": {
+        "title": "Yleistä",
+        "items": [
+          {
+            "q": "Toimiiko Spendoa offline-tilassa?",
+            "a": "Kyllä. Spendoa toimii ensisijaisesti offline-tilassa. Voit tarkastella aiempia tapahtumia ja raportteja myös ilman internetyhteyttä. Turvallisuussyistä uusien tapahtumien lisääminen vaatii internetyhteyden."
+          },
+          {
+            "q": "Minne tietoni on tallennettu?",
+            "a": "Tietosi on tallennettu turvallisesti salatuille etäpalvelimille. Vaikka vaihtaisit laitetta, pääset tietoihisi kirjautumalla tilillesi."
+          },
+          {
+            "q": "Mitä käyttöoikeuksia Spendoa vaatii?",
+            "a": "Se pyytää vain ilmoitusten lähettämisoikeutta muistutuksia varten. Spendoa ei vaadi kameran, yhteystietojen tai sijainnin käyttöoikeuksia."
+          },
+          {
+            "q": "Tukeeko sovellus widgetejä?",
+            "a": "Kyllä. Voit lisätä Spendoa-widgetin aloitusnäyttöösi tarkistaaksesi nopeasti tilisi tilanteen ja jäljellä olevan rajan avaamatta sovellusta."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Tilit",
+        "items": [
+          {
+            "q": "Voinko luoda useita tilejä?",
+            "a": "Kyllä. Voit luoda rajoittamattoman määrän pankkitilejä, luottokortteja, käteistilejä tai varallisuustilejä."
+          },
+          {
+            "q": "Miksi tiedot muuttuvat tiliä vaihtaessa?",
+            "a": "Jokainen Spendoan tili on itsenäinen. Kun vaihdat tiliä, kyseisen tilin valuutta, tilastot ja historia ladataan."
+          },
+          {
+            "q": "Voinko siirtää rahaa tilien välillä?",
+            "a": "Kyllä. Voit helposti lisätä siirtotapahtumia, kuten siirtää varoja käteistililtäsi luottokortillesi tai säästötilillesi."
+          },
+          {
+            "q": "Voinko käyttää eri valuuttoja?",
+            "a": "Kyllä. Voit asettaa eri valuutan jokaiselle tilille. Siirtojen aikana Spendoa hakee reaaliaikaiset vaihtokurssit ja muuntaa automaattisesti."
+          },
+          {
+            "q": "Kuinka usein vaihtokurssit päivitetään?",
+            "a": "Siirroissa käytettävät vaihtokurssit noudetaan reaaliaikaisesti globaaleilta markkinoilta, kunhan sinulla on internetyhteys."
+          },
+          {
+            "q": "Voinko käyttää jaettua tiliä?",
+            "a": "Spendoa on suunniteltu henkilökohtaiseen käyttöön. Voit kuitenkin hallita samoja tietoja kumppanisi kanssa, jos molemmat kirjautuvat sisään samalla Google-tilillä."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Tapahtumat",
+        "items": [
+          {
+            "q": "Miten lisään osamaksuostoksia?",
+            "a": "Kun lisäät kulun, valitse 'Osamaksu'. Syötä kokonaissumma ja maksuerien määrä; sovellus jakaa summan automaattisesti kuukausille."
+          },
+          {
+            "q": "Miten voin seurata velkojani ja saataviani?",
+            "a": "Käytä valikon 'Velat ja saatavat' -moduulia. Lisää henkilö seurataksesi helposti, kuinka paljon olet velkaa tai kuinka paljon sinulle ollaan velkaa."
+          },
+          {
+            "q": "Miten minun pitäisi kirjata luottokorttimaksut?",
+            "a": "Kirjaa ne 'Siirto'-tapahtumana. Siirrä rahaa pankkitililtäsi luottokorttitilillesi, jotta kulujasi ei lasketa kahteen kertaan."
+          },
+          {
+            "q": "Miten toistuvat tapahtumat toimivat?",
+            "a": "Jokaisella tilillä on omat sääntönsä toistuville tuloille/kuluille. Kun suunniteltu päivämäärä koittaa, tapahtuma lisätään automaattisesti."
+          }
+        ]
+      },
+      "security": {
+        "title": "Turvallisuus",
+        "items": [
+          {
+            "q": "Voinko lukita sovelluksen?",
+            "a": "Kyllä. Voit ottaa biometrisen todennuksen (sormenjälki/Face ID) käyttöön asetuksista. Tämä ominaisuus on ilmainen."
+          },
+          {
+            "q": "Mikä on summan piilotus?",
+            "a": "Summan piilotus peittää saldosi julkisilla paikoilla, jotta muut eivät näe niitä. Tämä ominaisuus on ilmainen."
+          },
+          {
+            "q": "Ovatko tietoni turvassa?",
+            "a": "Kyllä. Tietosi on suojattu alan standardien mukaisella salauksella. Kukaan, ei edes Spendoa-tiimi, pääse käsiksi tietoihisi."
+          },
+          {
+            "q": "Voinko poistaa tilini?",
+            "a": "Kyllä. Siirry kohtaan Asetukset > Tili > Poista tilini poistaaksesi tilisi ja kaikki siihen liittyvät tiedot pysyvästi."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Mitkä ovat Premiumin edut?",
+            "a": "Premium sisältää ominaisuuksia kuten Taloudellinen pisteytys, Tulevaisuuden ennuste, Edistyneet raportit ja Rajoittamattomat tilit. Perusominaisuudet pysyvät ilmaisina."
+          },
+          {
+            "q": "Mikä on Elinikäinen (Lifetime) -paketti?",
+            "a": "Elinikäinen paketti on kertamaksullinen. Maksa kerran ja saat elinikäisen pääsyn kaikkiin Premium-ominaisuuksiin."
+          },
+          {
+            "q": "Ostin Premiumin, mutta ominaisuudet eivät ole aktivoituneet?",
+            "a": "Napauta Asetuksissa 'Palauta ostokset'. Jos ongelma jatkuu, ota yhteyttä tukeen."
+          },
+          {
+            "q": "Miten perun tilaukseni?",
+            "a": "Peruuta tilaus Google Play Kaupan > Tilaukset kautta. Etusi jatkuvat nykyisen laskutuskauden loppuun saakka."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Funksjoner",
+    "testimonials": "Omtaler",
+    "download": "Last ned"
+  },
+  "hero": {
+    "headline": "Enkel pengehåndtering for ditt budsjett",
+    "subheadline": "Kontroller dine daglige utgifter, planlegg budsjettet ditt, og begynn å spare. Hvis du spør deg selv \"Hvor ble det av pengene mine?\" i slutten av måneden, er Spendoa for deg.",
+    "cta": "Last ned nå"
+  },
+  "features": {
+    "title": "Alt du trenger for å administrere pengene dine",
+    "subtitle": "Oppdag kraftige verktøy designet for å gi deg full kontroll over din økonomiske hverdag.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI-assistent",
+        "description": "Chat med din personlige AI for å få innsikt om utgiftene dine og personlige sparetips."
+      },
+      "receipts": {
+        "title": "Smart kvitteringsskanning",
+        "description": "Skann kvitteringene dine med AI og fyll ut utgiftsdetaljene dine automatisk."
+      },
+      "goals": {
+        "title": "Spare mål",
+        "description": "Sett tilpassede sparemål og spor visuelt fremgangen din mot økonomisk frihet."
+      },
+      "recurring": {
+        "title": "Gjentakende transaksjoner",
+        "description": "Administrer enkelt dine aktive abonnementer og vanlige månedlige regninger på ett sted."
+      },
+      "installments": {
+        "title": "Avdrag og lån",
+        "description": "Spor dine avbetalingskjøp, lån, gjeld og tilgodehavender sømløst."
+      },
+      "budgets": {
+        "title": "Smarte budsjetter",
+        "description": "Lag kategoribaserte budsjetter for å effektivt spore og kontrollere dine månedlige utgifter."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Fremhevede funksjoner",
+    "subtitle": "AI-drevne verktøy designet for å forenkle din utgiftssporing og budsjettplanlegging.",
+    "scanning": {
+      "title": "Smart kvitteringsskanning",
+      "description": "Du trenger ikke å skrive inn alt manuelt. Bare ta et bilde, så blir utgiftene automatisk oppdaget og kategorisert."
+    },
+    "analysis": {
+      "title": "Detaljert utgiftssporing og analyse",
+      "description": "Analyser mat, transport, leie og alle andre utgifter med diagrammer. Oppdag unødvendig pengebruk og spar penger."
+    },
+    "shared": {
+      "title": "Felles budsjettstyring",
+      "description": "Opprett et felles budsjett med familiemedlemmer, partneren din eller venner. Spor inntekter og utgifter sammen."
+    },
+    "alerts": {
+      "title": "Budsjettgrenser og varsler",
+      "description": "Sett kategoribaserte budsjetter. Få varsel når du nærmer deg forbruksgrensen din, og behold kontrollen."
+    },
+    "score": {
+      "title": "Økonomisk score og sparesporing",
+      "description": "Analyser forbruksvanene dine og forbedre din økonomiske situasjon. Nå målene dine ved å spare mer."
+    },
+    "security": {
+      "title": "Sikker datalagring",
+      "description": "Alle dine økonomiske data lagres sikkert. Dataene dine tilhører bare deg og er beskyttet på høyeste nivå."
+    },
+    "reports": {
+      "title": "Avanserte økonomiske rapporter",
+      "description": "Analyser dine inntekter og utgifter med detaljerte ukentlige, månedlige eller årlige diagrammer. Få et klart bilde av din økonomiske helse."
+    },
+    "darkmode": {
+      "title": "Øyevennlig mørk modus",
+      "description": "Bruk Spendoa komfortabelt når som helst på dagen. Spar batterilevetid og beskytt øynene med full støtte for mørk modus."
+    },
+    "reminders": {
+      "title": "Personlige påminnelser",
+      "description": "Gå aldri glipp av en regning eller en budsjettgrense igjen. Hold kontroll på din økonomiske kalender med smarte varsler."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Hvem er denne appen for?",
+    "items": {
+      "i1": "De som leter etter en budsjettsporingsapp",
+      "i2": "De som ønsker å spore inntekter og utgifter",
+      "i3": "Brukere som ønsker å kontrollere kostnader via utgiftssporing",
+      "i4": "Personer som registrerer daglige utgifter",
+      "i5": "Brukere som leter etter en budsjettplanlegger",
+      "i6": "De som søker etter pengehåndteringsapper",
+      "i7": "Folk som ønsker å holde oversikt over gjeld og regninger",
+      "i8": "Individer som har som mål å spare og bygge opp penger"
+    }
+  },
+  "whyUs": {
+    "title": "Hvorfor denne appen?",
+    "items": {
+      "i1": "Enkel og oversiktlig bruk",
+      "i2": "Rask registrering av inntekt og utgift",
+      "i3": "Detaljert utgiftsanalyse",
+      "i4": "Rask og intuitiv budsjettsporing",
+      "i5": "Kraftige verktøy for pengehåndtering"
+    }
+  },
+  "testimonials": {
+    "title": "Elsket av tusenvis av brukere",
+    "subtitle": "Bli med menneskene som har forvandlet sitt økonomiske liv med Spendoa.",
+    "users": {
+      "u1": {
+        "text": "AI-assistenten endrer alt! Den forteller meg nøyaktig hvor jeg bruker for mye, og gir meg praktiske råd.",
+        "name": "Selin Y.",
+        "role": "Verifisert Bruker"
+      },
+      "u2": {
+        "text": "Kvitteringsskanningen sparer meg for så mye tid. Det er overlegent den beste utgiftsappen jeg har brukt.",
+        "name": "Murat K.",
+        "role": "Verifisert Bruker"
+      },
+      "u3": {
+        "text": "Endelig en app som håndterer både mine faste abonnementer og sparemål i et rent og enkelt grensesnitt.",
+        "name": "Ayşe D.",
+        "role": "Verifisert Bruker"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa er en AI-drevet økonomiapp som hjelper deg med å spore utgifter, administrere abonnementer og spare penger.",
+    "navigation": "Meny",
+    "contact": "Kontakt",
+    "faq": "Ofte stilte spørsmål",
+    "feature_request": "Be om funksjon",
+    "social": "Følg oss",
+    "copyright": "© 2026 Spendoa. Med enerett."
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "subtitle": "Alt du trenger å vite om Spendoa",
+    "back": "Tilbake til Hjem",
+    "categories": {
+      "general": {
+        "title": "Generelt",
+        "items": [
+          {
+            "q": "Fungerer Spendoa offline?",
+            "a": "Ja. Spendoa fungerer 'offline-first'. Selv uten internettforbindelse kan du se dine tidligere transaksjoner og rapporter. Av sikkerhetsgrunner krever imidlertid det å legge til nye transaksjoner en internettforbindelse."
+          },
+          {
+            "q": "Hvor er dataene mine lagret?",
+            "a": "Dataene dine lagres sikkert på krypterte eksterne servere. Selv om du bytter enhet, kan du få tilgang til dataene dine ved å logge på kontoen din."
+          },
+          {
+            "q": "Hvilke tillatelser krever Spendoa?",
+            "a": "Den ber bare om tillatelse for Varsler for å sende deg påminnelser. Spendoa krever ikke tillatelser for kamera, kontakter eller plassering."
+          },
+          {
+            "q": "Støtter appen widgets?",
+            "a": "Ja. Du kan legge til Spendoa-widgeten på startskjermen din for å raskt sjekke kontostatusen og gjenværende grense uten å åpne appen."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Kontoer",
+        "items": [
+          {
+            "q": "Kan jeg opprette flere kontoer?",
+            "a": "Ja. Du kan opprette et ubegrenset antall Kontoer, Kredittkort, Bankkontoer, Kontanter eller Eiendelskontoer."
+          },
+          {
+            "q": "Hvorfor endres dataene når jeg bytter konto?",
+            "a": "Hver konto i Spendoa er uavhengig. Når du bytter konto, lastes den spesifikke kontoens valuta, statistikk og historikk."
+          },
+          {
+            "q": "Kan jeg overføre penger mellom kontoer?",
+            "a": "Ja. Du kan enkelt legge til overføringstransaksjoner, for eksempel å overføre midler fra kontantkontoen din til kredittkortet eller sparekontoen din."
+          },
+          {
+            "q": "Kan jeg bruke forskjellige valutaer?",
+            "a": "Ja. Du kan angi en annen valuta for hver konto. Under overføringer henter Spendoa live valutakurser og konverterer automatisk."
+          },
+          {
+            "q": "Hvor ofte oppdateres valutakursene?",
+            "a": "Valutakurser som brukes ved overføringer hentes i sanntid fra globale markeder så lenge du har en internettforbindelse."
+          },
+          {
+            "q": "Kan jeg bruke en delt konto?",
+            "a": "Spendoa er designet for individuell bruk. Imidlertid kan du administrere de samme dataene med partneren din hvis dere begge logger på med den samme Google-kontoen."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transaksjoner",
+        "items": [
+          {
+            "q": "Hvordan legger jeg til avbetalingskjøp?",
+            "a": "Når du legger til en utgift, velger du 'Avdragsbetaling'. Angi det totale beløpet og antall avdrag; appen vil automatisk dele beløpet over månedene."
+          },
+          {
+            "q": "Hvordan kan jeg spore min gjeld og tilgodehavender?",
+            "a": "Bruk 'Gjeld og tilgodehavender'-modulen i menyen. Legg til en person for å enkelt spore hvor mye du skylder eller har til gode."
+          },
+          {
+            "q": "Hvordan bør jeg registrere kredittkortbetalinger?",
+            "a": "Registrer dem som en 'Overføring'. Overfør penger fra bankkontoen din til kredittkortkontoen din slik at utgiftene dine ikke telles to ganger."
+          },
+          {
+            "q": "Hvordan fungerer gjentakende transaksjoner?",
+            "a": "Hver konto har sine egne regler for faste inntekter/utgifter. Når den planlagte datoen kommer, legges transaksjonen til automatisk."
+          }
+        ]
+      },
+      "security": {
+        "title": "Sikkerhet",
+        "items": [
+          {
+            "q": "Kan jeg låse appen?",
+            "a": "Ja. Du kan aktivere Biometrisk autentisering (Fingeravtrykk/Face ID) i Innstillinger. Denne funksjonen er gratis å bruke."
+          },
+          {
+            "q": "Hva er beløpsmaskering?",
+            "a": "Beløpsmaskering skjuler saldoen din i overfylte miljøer slik at andre ikke kan se dem. Denne funksjonen er gratis."
+          },
+          {
+            "q": "Er dataene mine trygge?",
+            "a": "Ja. Dataene dine er beskyttet med industristandard kryptering. Ingen, inkludert Spendoa-teamet, har tilgang til informasjonen din."
+          },
+          {
+            "q": "Kan jeg slette kontoen min?",
+            "a": "Ja. Gå til Innstillinger > Konto > Slett Min Konto for å slette kontoen din og alle tilknyttede data permanent."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Hva er fordelene med Premium?",
+            "a": "Premium inkluderer funksjoner som Økonomisk Score, Fremtidsprognose, Avanserte Rapporter og Ubegrensede Kontoer. Grunnleggende regnskapsfunksjoner forblir gratis."
+          },
+          {
+            "q": "Hva er Livstid (Lifetime)?",
+            "a": "Livstid er et engangskjøp. Betal én gang og få livstidstilgang til alle Premium-funksjoner."
+          },
+          {
+            "q": "Jeg kjøpte Premium, men funksjonene er ikke aktivert?",
+            "a": "Trykk på 'Gjenopprett Kjøp' i Innstillinger. Kontakt support hvis problemet vedvarer."
+          },
+          {
+            "q": "Hvordan kansellerer jeg abonnementet mitt?",
+            "a": "Avbryt via Google Play Store > Abonnementer. Dine fordeler vil fortsette frem til slutten av den nåværende faktureringsperioden."
+          }
+        ]
+      }
+    }
+  }
+}

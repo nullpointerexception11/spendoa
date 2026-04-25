@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Funktioner",
+    "testimonials": "Recensioner",
+    "download": "Ladda ner"
+  },
+  "hero": {
+    "headline": "Enkel pengahantering för din budget",
+    "subheadline": "Kontrollera dina dagliga utgifter, planera din budget och börja spara. Om du undrar \"Vart tog mina pengar vägen?\" i slutet av månaden, är Spendoa för dig.",
+    "cta": "Ladda ner nu"
+  },
+  "features": {
+    "title": "Allt du behöver för att hantera dina pengar",
+    "subtitle": "Upptäck kraftfulla verktyg designade för att ge dig full kontroll över ditt ekonomiska liv.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI-assistent",
+        "description": "Chatta med din personliga AI för att få insikter om dina utgifter och personliga spartips."
+      },
+      "receipts": {
+        "title": "Smart kvittoskanning",
+        "description": "Skanna dina kvitton med AI och fyll automatiskt i dina utgiftsdetaljer."
+      },
+      "goals": {
+        "title": "Sparmål",
+        "description": "Sätt anpassade sparmål och spåra visuellt dina framsteg mot ekonomisk frihet."
+      },
+      "recurring": {
+        "title": "Återkommande transaktioner",
+        "description": "Hantera enkelt dina aktiva prenumerationer och vanliga månatliga räkningar på ett ställe."
+      },
+      "installments": {
+        "title": "Avbetalningar och lån",
+        "description": "Spåra dina avbetalningsköp, lån, skulder och fordringar sömlöst."
+      },
+      "budgets": {
+        "title": "Smarta budgetar",
+        "description": "Skapa kategoribaserade budgetar för att effektivt spåra och kontrollera dina månatliga utgifter."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Framhävda funktioner",
+    "subtitle": "AI-drivna verktyg designade för att förenkla din utgiftsspårning och budgetplanering.",
+    "scanning": {
+      "title": "Smart kvittoskanning",
+      "description": "Du behöver inte skriva in allt manuellt. Ta bara ett foto, och utgifter upptäcks och kategoriseras automatiskt."
+    },
+    "analysis": {
+      "title": "Detaljerad utgiftsspårning och analys",
+      "description": "Analysera mat, transport, hyra och alla andra utgifter med diagram. Upptäck onödiga utgifter och spara pengar."
+    },
+    "shared": {
+      "title": "Gemensam budgethantering",
+      "description": "Skapa en gemensam budget med familjemedlemmar, din partner eller vänner. Spåra inkomster och utgifter tillsammans."
+    },
+    "alerts": {
+      "title": "Budgetgränser och varningar",
+      "description": "Sätt kategoribaserade budgetar. Få ett meddelande när du närmar dig din utgiftsgräns och behåll kontrollen."
+    },
+    "score": {
+      "title": "Ekonomisk poäng och sparspårning",
+      "description": "Analysera dina utgiftsvanor och förbättra din ekonomiska situation. Nå dina mål genom att spara mer."
+    },
+    "security": {
+      "title": "Säker datalagring",
+      "description": "All din ekonomiska data lagras säkert. Din data tillhör endast dig och skyddas på högsta nivå."
+    },
+    "reports": {
+      "title": "Avancerade ekonomiska rapporter",
+      "description": "Analysera dina inkomster och utgifter med detaljerade veckovisa, månatliga eller årliga diagram. Få en tydlig bild av din ekonomiska hälsa."
+    },
+    "darkmode": {
+      "title": "Ögonvänligt mörkt läge",
+      "description": "Använd Spendoa bekvämt när som helst på dagen. Spara batteritid och skydda ögonen med fullt stöd för mörkt läge."
+    },
+    "reminders": {
+      "title": "Personliga påminnelser",
+      "description": "Missa aldrig mer en räkning eller en budgetgräns. Behåll kontrollen över din ekonomiska kalender med smarta aviseringar."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Vem är den här appen till för?",
+    "items": {
+      "i1": "De som letar efter en app för budgetspårning",
+      "i2": "De som vill spåra inkomster och utgifter",
+      "i3": "Användare som vill kontrollera kostnader via utgiftsspårning",
+      "i4": "Personer som registrerar dagliga utgifter",
+      "i5": "Användare som letar efter en budgetplanerare",
+      "i6": "De som söker appar för pengahantering",
+      "i7": "Folk som vill hålla koll på skulder och räkningar",
+      "i8": "Individer vars mål är att spara och bygga upp pengar"
+    }
+  },
+  "whyUs": {
+    "title": "Varför denna app?",
+    "items": {
+      "i1": "Enkel och tydlig att använda",
+      "i2": "Snabb registrering av inkomst och utgift",
+      "i3": "Detaljerad utgiftsanalys",
+      "i4": "Snabb och intuitiv budgetspårning",
+      "i5": "Kraftfulla verktyg för pengahantering"
+    }
+  },
+  "testimonials": {
+    "title": "Älskad av tusentals användare",
+    "subtitle": "Gå med de människor som har förvandlat sina ekonomiska liv med Spendoa.",
+    "users": {
+      "u1": {
+        "text": "AI-assistenten förändrar allt! Den berättar exakt var jag spenderar för mycket och ger praktiska råd.",
+        "name": "Selin Y.",
+        "role": "Verifierad Användare"
+      },
+      "u2": {
+        "text": "Kvittoskanningsfunktionen sparar mig så mycket tid. Det är överlägset den bästa utgiftsappen jag har använt.",
+        "name": "Murat K.",
+        "role": "Verifierad Användare"
+      },
+      "u3": {
+        "text": "Äntligen en app som hanterar både mina fasta prenumerationer och sparmål i ett rent gränssnitt.",
+        "name": "Ayşe D.",
+        "role": "Verifierad Användare"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa är en AI-driven app för ekonomisk hantering som hjälper dig att spåra utgifter, hantera prenumerationer och spara pengar.",
+    "navigation": "Meny",
+    "contact": "Kontakt",
+    "faq": "Vanliga frågor",
+    "feature_request": "Begär funktion",
+    "social": "Följ oss",
+    "copyright": "© 2026 Spendoa. Alla rättigheter förbehållna."
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Allt du behöver veta om Spendoa",
+    "back": "Tillbaka till Hem",
+    "categories": {
+      "general": {
+        "title": "Allmänt",
+        "items": [
+          {
+            "q": "Fungerar Spendoa offline?",
+            "a": "Ja. Spendoa fungerar 'offline-first'. Även utan internetanslutning kan du se dina tidigare transaktioner och rapporter. Av säkerhetsskäl kräver dock tillägg av nya transaktioner en internetanslutning."
+          },
+          {
+            "q": "Var lagras min data?",
+            "a": "Din data lagras säkert på krypterade fjärrservrar. Även om du byter enhet kan du komma åt din data genom att logga in på ditt konto."
+          },
+          {
+            "q": "Vilka behörigheter kräver Spendoa?",
+            "a": "Den ber bara om tillstånd för Notiser för att skicka påminnelser till dig. Spendoa kräver inte behörigheter för kamera, kontakter eller plats."
+          },
+          {
+            "q": "Stöder appen widgets?",
+            "a": "Ja. Du kan lägga till Spendoa-widgeten på din startskärm för att snabbt kolla din kontostatus och återstående gräns utan att öppna appen."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Konton",
+        "items": [
+          {
+            "q": "Kan jag skapa flera konton?",
+            "a": "Ja. Du kan skapa ett obegränsat antal Konton, Kreditkort, Bankkonton, Kontanter eller Tillgångar."
+          },
+          {
+            "q": "Varför ändras datan när jag byter konto?",
+            "a": "Varje konto i Spendoa är oberoende. När du byter konto laddas den specifika kontots valuta, statistik och historik."
+          },
+          {
+            "q": "Kan jag överföra pengar mellan konton?",
+            "a": "Ja. Du kan enkelt lägga till överföringstransaktioner, som att överföra medel från ditt kontantkonto till ditt kreditkort eller sparkonto."
+          },
+          {
+            "q": "Kan jag använda olika valutor?",
+            "a": "Ja. Du kan ställa in en annan valuta for varje konto. Vid överföringar hämtar Spendoa live-växelkurser och konverterar automatiskt."
+          },
+          {
+            "q": "Hur ofta uppdateras växelkurserna?",
+            "a": "Växelkurser som används vid överföringar hämtas i realtid från globala marknader så länge du har en internetanslutning."
+          },
+          {
+            "q": "Kan jag använda ett delat konto?",
+            "a": "Spendoa är designat för individuell användning. Du kan dock hantera samma data med din partner om ni båda loggar in med samma Google-konto."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transaktioner",
+        "items": [
+          {
+            "q": "Hur lägger jag till avbetalningsköp?",
+            "a": "När du lägger till en utgift, välj 'Avbetalning'. Ange det totala beloppet och antalet avbetalningar; appen kommer automatiskt att dela upp beloppet över månaderna."
+          },
+          {
+            "q": "Hur kan jag spåra mina skulder och fordringar?",
+            "a": "Använd modulen 'Skulder & Fordringar' i menyn. Lägg till en person för att enkelt spåra hur mycket du är skyldig eller har till godo."
+          },
+          {
+            "q": "Hur ska jag registrera kreditkortsbetalningar?",
+            "a": "Registrera dem som en 'Överföring'. Överför pengar från ditt bankkonto till ditt kreditkortskonto så att dina utgifter inte räknas två gånger."
+          },
+          {
+            "q": "Hur fungerar återkommande transaktioner?",
+            "a": "Varje konto har sina egna regler för fasta inkomster/utgifter. När det planerade datumet kommer, läggs transaktionen till automatiskt."
+          }
+        ]
+      },
+      "security": {
+        "title": "Säkerhet",
+        "items": [
+          {
+            "q": "Kan jag låsa appen?",
+            "a": "Ja. Du kan aktivera Biometrisk Autentisering (Fingeravtryck/Face ID) under Inställningar. Denna funktion är gratis."
+          },
+          {
+            "q": "Vad är beloppsmaskering?",
+            "a": "Beloppsmaskering döljer dina saldon i trånga miljöer så att andra inte kan se dem. Denna funktion är gratis."
+          },
+          {
+            "q": "Är min data säker?",
+            "a": "Ja. Din data är skyddad med industristandardkryptering. Ingen, inklusive Spendoa-teamet, kan komma åt din information."
+          },
+          {
+            "q": "Kan jag radera mitt konto?",
+            "a": "Ja. Gå till Inställningar > Konto > Radera Mitt Konto för att permanent radera ditt konto och all tillhörande data."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Vad är fördelarna med Premium?",
+            "a": "Premium inkluderar funktioner som Ekonomisk Poäng, Framtidsprognos, Avancerade Rapporter och Obegrensade Konton. Grundläggende bokföringsfunktioner förblir gratis."
+          },
+          {
+            "q": "Vad är Livstid (Lifetime)?",
+            "a": "Livstid är ett engangsköp. Betala en gång och få livstids tillgång till alla Premium-funktioner."
+          },
+          {
+            "q": "Ich köpte Premium men funktionerna är inte aktiverade?",
+            "a": "Tryck på 'Återställ Köp' i Inställningar. Om problemet kvarstår, vänligen kontakta support."
+          },
+          {
+            "q": "Hur avbryter jag min prenumeration?",
+            "a": "Avbryt via Google Play Store > Prenumerationer. Dina förmåner kommer att fortsätta till slutet av den aktuella faktureringsperioden."
+          }
+        ]
+      }
+    }
+  }
+}

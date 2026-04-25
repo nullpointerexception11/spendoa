@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Funkciók",
+    "testimonials": "Értékelések",
+    "download": "Letöltés"
+  },
+  "hero": {
+    "headline": "Egyszerű pénzkezelés a költségvetésedhez",
+    "subheadline": "Irányítsd a napi kiadásokat, tervezd meg a költségvetésed, és kezdj el spórolni. Ha a hónap végén azt kérdezed magadtól, hogy \"Hova tűnt a pénzem?\", a Spendoa neked való.",
+    "cta": "Töltse le most"
+  },
+  "features": {
+    "title": "Minden, amire a pénzed kezeléséhez szükséged van",
+    "subtitle": "Fedezz fel hatékony eszközöket, amelyek segítségével teljes ellenőrzést szerezhetsz a pénzügyi életed felett.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI Asszisztens",
+        "description": "Csevegj a személyes mesterséges intelligenciáddal, hogy betekintést nyerj a kiadásaidba és személyre szabott megtakarítási tippeket kapj."
+      },
+      "receipts": {
+        "title": "Intelligens blokk szkennelés",
+        "description": "Szkenneld be a blokkjaidat az AI segítségével, és automatikusan töltsd ki a kiadási részleteket."
+      },
+      "goals": {
+        "title": "Megtakarítási célok",
+        "description": "Tűzz ki egyedi megtakarítási célokat, és vizuálisan kövesd nyomon az anyagi szabadság felé vezető utat."
+      },
+      "recurring": {
+        "title": "Rendszeres tranzakciók",
+        "description": "Könnyedén kezelheted aktív előfizetéseidet és rendszeres havi számláidat egy helyen."
+      },
+      "installments": {
+        "title": "Részletfizetések és Hitelek",
+        "description": "Kövesd nyomon a részletre vásárolt termékeket, hiteleket, tartozásokat és kintlévőségeket zökkenőmentesen."
+      },
+      "budgets": {
+        "title": "Okos Költségvetések",
+        "description": "Hozz létre kategóriaalapú költségvetéseket a havi kiadásaid hatékony nyomon követésére és ellenőrzésére."
+      }
+    }
+  },
+  "highlights": {
+    "title": "Kiemelt funkciók",
+    "subtitle": "AI-alapú eszközök a kiadások nyomon követésének és a költségvetés-tervezés egyszerűsítésére.",
+    "scanning": {
+      "title": "Intelligens blokk szkennelés",
+      "description": "Nem kell mindent kézzel begépelni. Csak készíts egy fotót, és a kiadások automatikusan felismerésre és kategorizálásra kerülnek."
+    },
+    "analysis": {
+      "title": "Részletes kiadáskövetés és elemzés",
+      "description": "Elemezd az élelmiszer-, utazás-, lakbér- és egyéb kiadásaidat grafikonokkal. Fedezd fel a felesleges költéseket és takaríts meg pénzt."
+    },
+    "shared": {
+      "title": "Közös költségvetés-kezelés",
+      "description": "Hozz létre közös költségvetést családtagjaiddal, házastársaddal vagy barátaiddal. Kövessétek közösen a bevételeket és a kiadásokat."
+    },
+    "alerts": {
+      "title": "Költségvetési korlátok és riasztások",
+      "description": "Állíts be kategóriaalapú költségvetéseket. Kapj értesítést, ha közeledsz a kiadási limitedhez, és maradj az irányítás birtokában."
+    },
+    "score": {
+      "title": "Pénzügyi pontszám és megtakarításkövetés",
+      "description": "Elemezd a költési szokásaidat, és javíts a pénzügyi helyzeteden. Érd el a céljaidat azáltal, hogy többet takarítasz meg."
+    },
+    "security": {
+      "title": "Biztonságos adattárolás",
+      "description": "Minden pénzügyi adatod biztonságban van tárolva. Az adataid csak a tieid, és a legmagasabb szintű védelem alatt állnak."
+    },
+    "reports": {
+      "title": "Fejlett pénzügyi jelentések",
+      "description": "Elemezd a bevételeidet és a kiadásaidat részletes heti, havi vagy éves grafikonokkal. Kapj tiszta képet a pénzügyi egészségedről."
+    },
+    "darkmode": {
+      "title": "Szemkímélő sötét mód",
+      "description": "Használd a Spendoa-t kényelmesen a nap bármely szakában. Takaríts meg akkumulátor-üzemidőt és védd a szemed a teljes sötét mód támogatással."
+    },
+    "reminders": {
+      "title": "Személyre szabott emlékeztetők",
+      "description": "Soha többé ne késs le egy számlafizetést vagy lépd túl a költségkeretet. Tartsd irányításod alatt a pénzügyi naptárad az okos értesítésekkel."
+    }
+  },
+  "whoIsItFor": {
+    "title": "Kinek szól ez az alkalmazás?",
+    "items": {
+      "i1": "Akik költségvetés-követő alkalmazást keresnek",
+      "i2": "Akik nyomon szeretnék követni a bevételeket és kiadásokat",
+      "i3": "Akik a költségeiket kiadáskövetéssel akarják kontrollálni",
+      "i4": "Akik napi szinten rögzítik a kiadásaikat",
+      "i5": "Akik költségvetés-tervezőt keresnek",
+      "i6": "Akik pénzkezelő alkalmazásokat keresnek",
+      "i7": "Akik a tartozásaikat és számláikat akarják nyomon követni",
+      "i8": "Akiknek céljuk a megtakarítás és a pénzgyűjtés"
+    }
+  },
+  "whyUs": {
+    "title": "Miért ez az alkalmazás?",
+    "items": {
+      "i1": "Egyszerű és áttekinthető használat",
+      "i2": "Gyors bevétel- és kiadásrögzítés",
+      "i3": "Részletes kiadáselemzés",
+      "i4": "Gyors és intuitív költségvetés-követés",
+      "i5": "Hatékony pénzkezelési eszközök"
+    }
+  },
+  "testimonials": {
+    "title": "Felhasználók ezrei imádják",
+    "subtitle": "Csatlakozz azokhoz az emberekhez, akik a Spendoa segítségével átalakították pénzügyi életüket.",
+    "users": {
+      "u1": {
+        "text": "Az AI asszisztens egy igazi áttörés! Pontosan megmondja, hol költök túl sokat, és hasznos tanácsokat ad.",
+        "name": "Selin Y.",
+        "role": "Ellenőrzött Felhasználó"
+      },
+      "u2": {
+        "text": "A blokk szkennelés rengeteg időt takarít meg nekem. Messze ez a legjobb kiadáskövető alkalmazás, amit valaha használtam.",
+        "name": "Murat K.",
+        "role": "Ellenőrzött Felhasználó"
+      },
+      "u3": {
+        "text": "Végre egy alkalmazás, amely letisztult felületen kezeli a rendszeres előfizetéseimet és a megtakarítási céljaimat is.",
+        "name": "Ayşe D.",
+        "role": "Ellenőrzött Felhasználó"
+      }
+    }
+  },
+  "footer": {
+    "description": "A Spendoa egy AI-alapú pénzügyi kezelő alkalmazás, amely segít a kiadások nyomon követésében, az előfizetések kezelésében és a pénzmegtakarításban.",
+    "navigation": "Menü",
+    "contact": "Kapcsolat",
+    "faq": "GYIK",
+    "feature_request": "Funkció kérése",
+    "social": "Kövess minket",
+    "copyright": "© 2026 Spendoa. Minden jog fenntartva."
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések",
+    "subtitle": "Minden, amit a Spendoa-ról tudnod kell",
+    "back": "Vissza a Főoldalra",
+    "categories": {
+      "general": {
+        "title": "Általános",
+        "items": [
+          {
+            "q": "Működik a Spendoa offline (internet nélkül)?",
+            "a": "Igen. A Spendoa elsődlegesen offline (offline-first) működik. Internetkapcsolat nélkül is megtekintheted a korábbi tranzakciókat és jelentéseket. Biztonsági okokból az új tranzakciók hozzáadásához internetkapcsolat szükséges."
+          },
+          {
+            "q": "Hol tárolják az adataimat?",
+            "a": "Adataidat titkosított távoli szervereken tároljuk biztonságosan. Még ha eszközt cserélsz is, a fiókodba belépve hozzáférhetsz az adataidhoz."
+          },
+          {
+            "q": "Milyen engedélyeket kér a Spendoa?",
+            "a": "Csak értesítési engedélyt kér, hogy emlékeztetőket küldhessen. A Spendoa nem igényel hozzáférést a kamerához, a névjegyekhez vagy a helyadatokhoz."
+          },
+          {
+            "q": "Támogatja az alkalmazás a widgeteket?",
+            "a": "Igen. Hozzáadhatod a Spendoa widgetet a kezdőképernyődhöz, így az alkalmazás megnyitása nélkül gyorsan ellenőrizheted az egyenlegedet és a hátralévő keretet."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Fiókok",
+        "items": [
+          {
+            "q": "Létrehozhatok több fiókot is?",
+            "a": "Igen. Korlátlan számú Fiókot, Hitelkártyát, Bankszámlát, Készpénzt vagy Eszközt adhatsz hozzá."
+          },
+          {
+            "q": "Miért változnak az adatok, ha fiókot váltok?",
+            "a": "A Spendoa minden fiókja független. Amikor fiókot váltasz, az adott fiók pénzneme, statisztikája és előzményei töltődnek be."
+          },
+          {
+            "q": "Átutalhatok pénzt a fiókok között?",
+            "a": "Igen. Könnyedén hozzáadhatsz átutalási tranzakciókat, például áthelyezhetsz pénzt a készpénzes fiókodból a hitelkártyádra vagy a megtakarítási számládra."
+          },
+          {
+            "q": "Használhatok különböző valutákat?",
+            "a": "Igen. Minden fiókhoz külön pénznemet állíthatsz be. Az átutalások során a Spendoa élő árfolyamokat kér le, és automatikusan átváltja az összeget."
+          },
+          {
+            "q": "Milyen gyakran frissülnek az árfolyamok?",
+            "a": "Az átutalásokhoz használt árfolyamok valós időben frissülnek a globális piacokról, amennyiben rendelkezel internetkapcsolattal."
+          },
+          {
+            "q": "Használhatok megosztott fiókot?",
+            "a": "A Spendoa egyéni használatra készült. Azonban partnerével is kezelhetitek ugyanazokat az adatokat, ha mindketten ugyanazzal a Google-fiókkal jelentkeztek be."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Tranzakciók",
+        "items": [
+          {
+            "q": "Hogyan adhatok hozzá részletre történő vásárlást?",
+            "a": "Kiadás hozzáadásakor válaszd a 'Részletfizetés' lehetőséget. Írd be a teljes összeget és a részletek számát; az alkalmazás automatikusan elosztja az összeget a hónapokra."
+          },
+          {
+            "q": "Hogyan követhetem nyomon a tartozásaimat és kintlévőségeimet?",
+            "a": "Használd a menü 'Tartozások és Kintlévőségek' modulját. Adj hozzá egy személyt, hogy könnyen nyomon követhesd, kinek mennyivel tartozol, vagy ki tartozik neked."
+          },
+          {
+            "q": "Hogyan kell rögzítenem a hitelkártya-befizetéseket?",
+            "a": "Rögzítsd őket 'Átutalás' tranzakcióként. Utalj pénzt a bankszámládról a hitelkártya számládra, így a kiadásaid nem fognak kétszer szerepelni."
+          },
+          {
+            "q": "Hogyan működnek a rendszeres tranzakciók?",
+            "a": "Minden fióknak megvannak a saját rendszeres bevétel/kiadás szabályai. Amikor elérkezik a tervezett dátum, a tranzakció automatikusan hozzáadódik."
+          }
+        ]
+      },
+      "security": {
+        "title": "Biztonság",
+        "items": [
+          {
+            "q": "Lezárhatom az alkalmazást?",
+            "a": "Igen. A Beállításokban bekapcsolhatod a biometrikus azonosítást (Ujjlenyomat/Face ID). Ez a funkció ingyenes."
+          },
+          {
+            "q": "Mi az az összegmaszkolás?",
+            "a": "Az összegmaszkolás elrejti az egyenlegedet zsúfolt helyeken, így mások nem láthatják azt. Ez a funkció ingyenes."
+          },
+          {
+            "q": "Biztonságban vannak az adataim?",
+            "a": "Igen. Adataidat iparági szabványú titkosítás védi. Senki, beleértve a Spendoa csapatát sem, nem férhet hozzá az információidhoz."
+          },
+          {
+            "q": "Törölhetem a fiókomat?",
+            "a": "Igen. Lépj a Beállításos > Fiók > Fiók Törlése menüpontba a fiókod és a hozzá tartozó összes adat végleges törléséhez."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "Mik a Premium előnyei?",
+            "a": "A Premium olyan funkciókat tartalmaz, mint a Pénzügyi Pontszám, Jövőbeli Előrejelzés, Fejlett Jelentések és Korlátlan Fiókok. Az alapvető könyvelési funkciók ingyenesek maradnak."
+          },
+          {
+            "q": "Mi az az Örökre szóló (Lifetime) csomag?",
+            "a": "A Lifetime egy egyszeri vásárlás. Fizess egyszer, és életed végéig hozzáférést kapsz minden Premium funkcióhoz."
+          },
+          {
+            "q": "Megvásároltam a Premiumot, de a funkciók nem aktiválódtak?",
+            "a": "Koppints a 'Vásárlások Visszaállítása' gombra a Beállításokban. Ha a probléma továbbra is fennáll, kérjük, vedd fel a kapcsolatot az ügyfélszolgálattal."
+          },
+          {
+            "q": "Hogyan mondhatom le az előfizetésemet?",
+            "a": "A Google Play Áruház > Előfizetések menüpontban tudod lemondani. Az előnyeid a jelenlegi számlázási időszak végéig megmaradnak."
+          }
+        ]
+      }
+    }
+  }
+}
