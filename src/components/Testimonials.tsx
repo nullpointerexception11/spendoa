@@ -1,13 +1,50 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { Star, Quote } from 'lucide-react';
+import { Star, Download } from 'lucide-react';
 import './Testimonials.css';
+
+interface Review {
+  id: string;
+  userName: string;
+  score: number;
+  text: string;
+  date: string;
+  thumbsUp: number;
+  replyText: string | null;
+  replyDate: string | null;
+}
+
+interface AppInfo {
+  score: number | null;
+  ratings: number;
+  reviews: number;
+  installs: string;
+  minInstalls: number;
+  maxInstalls: number;
+}
 
 const Testimonials: React.FC = () => {
   const { t } = useTranslation();
+  const [reviews, setReviews] = useState<Review[]>([]);
+  const [appInfo, setAppInfo] = useState<AppInfo | null>(null);
 
-  const users = ['u1', 'u2', 'u3'];
+  useEffect(() => {
+    fetch('/reviews.json')
+      .then(res => res.json())
+      .then((data: Review[]) => setReviews(data))
+      .catch(err => console.error('Failed to load reviews:', err));
+
+    fetch('/app-info.json')
+      .then(res => res.json())
+      .then((data: AppInfo) => setAppInfo(data))
+      .catch(err => console.error('Failed to load app info:', err));
+  }, []);
+
+  const formatDate = (dateStr: string) => {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' });
+  };
 
   return (
     <section id="testimonials" className="section testimonials-section">
@@ -33,64 +70,85 @@ const Testimonials: React.FC = () => {
         </div>
 
         <div className="testimonials-grid">
-          {users.map((user, index) => (
+          {reviews.map((review, index) => (
             <motion.div 
-              key={user}
-              className="testimonial-card glass-card"
-              initial={{ opacity: 0, scale: 0.95 }}
-              whileInView={{ opacity: 1, scale: 1 }}
+              key={review.id}
+              className="testimonial-card"
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
-              transition={{ delay: index * 0.15 }}
+              transition={{ delay: index * 0.08 }}
             >
-              <Quote className="quote-icon" size={40} />
-              
-              <div className="stars">
-                {[1, 2, 3, 4, 5].map((star) => (
-                  <Star key={star} size={16} fill="var(--accent-color)" color="var(--accent-color)" />
-                ))}
+              <div className="review-header">
+                <div className="stars">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <Star
+                      key={i}
+                      size={16}
+                      fill={i < review.score ? '#fbbf24' : 'transparent'}
+                      color={i < review.score ? '#fbbf24' : '#d1d5db'}
+                    />
+                  ))}
+                </div>
+                <span className="review-date">{formatDate(review.date)}</span>
               </div>
-              
-              <p className="testimonial-text">"{t(`testimonials.users.${user}.text`)}"</p>
-              
+
+              <p className="testimonial-text">"{review.text}"</p>
+
               <div className="testimonial-author">
                 <div className="author-avatar">
-                  {t(`testimonials.users.${user}.name`).charAt(0)}
+                  {review.userName.charAt(0)}
                 </div>
                 <div>
-                  <h4 className="author-name">{t(`testimonials.users.${user}.name`)}</h4>
-                  <p className="author-role">{t(`testimonials.users.${user}.role`)}</p>
+                  <h4 className="author-name">{review.userName}</h4>
+                  <p className="author-role">Google Play Kullanıcısı</p>
                 </div>
               </div>
             </motion.div>
           ))}
         </div>
 
-        <motion.div 
-          className="store-stats"
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ delay: 0.5 }}
-        >
-          <div className="glass-card stat-card">
-            <h3 className="stat-number">4.8</h3>
-            <div className="stars justify-center mb-2">
-              {[1, 2, 3, 4, 5].map((star) => (
-                <Star key={star} size={20} fill="#fbbf24" color="#fbbf24" />
-              ))}
+        {/* Play Store Stats Card */}
+        {appInfo && (
+          <motion.div 
+            className="playstore-card"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.3 }}
+          >
+            <img src="/google-play-icon.svg" alt="Google Play" className="playstore-card-icon" />
+            <div className="playstore-card-info">
+              <span className="playstore-card-label">Google Play</span>
+              <div className="playstore-card-rating">
+                <span className="playstore-card-score">{appInfo.score}</span>
+                <div className="stars">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <Star
+                      key={i}
+                      size={14}
+                      fill={i < Math.round(appInfo.score || 0) ? '#fbbf24' : 'transparent'}
+                      color={i < Math.round(appInfo.score || 0) ? '#fbbf24' : '#d1d5db'}
+                    />
+                  ))}
+                </div>
+                <span className="playstore-card-reviews">({appInfo.ratings})</span>
+              </div>
             </div>
-            <p className="text-muted">Google Play • 10k+ reviews</p>
-          </div>
-          <div className="glass-card stat-card">
-            <h3 className="stat-number">4.9</h3>
-            <div className="stars justify-center mb-2">
-              {[1, 2, 3, 4, 5].map((star) => (
-                <Star key={star} size={20} fill="#fbbf24" color="#fbbf24" />
-              ))}
+            <div className="playstore-card-downloads">
+              <Download size={16} />
+              <span>{appInfo.installs}</span>
             </div>
-            <p className="text-muted">App Store • 15k+ reviews</p>
-          </div>
-        </motion.div>
+            <a 
+              href="https://play.google.com/store/apps/details?id=com.oguzdogdu.budgetpulse&hl=tr"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="playstore-card-button"
+            >
+              Mağazada Gör
+            </a>
+          </motion.div>
+        )}
       </div>
     </section>
   );

@@ -93,11 +93,15 @@
   background: transparent;
   border: none;
   color: var(--text-secondary);
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1rem;
   text-align: left;
   cursor: pointer;
   border-radius: 6px;
   font-family: inherit;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
 }
 
 .lang-dropdown button:hover {
@@ -109,6 +113,14 @@
   color: var(--primary-color);
   font-weight: 600;
   background: var(--surface-color);
+}
+
+.lang-flag {
+  font-size: 1.1rem;
+}
+
+.lang-name {
+  font-size: 0.95rem;
 }
 
 .mobile-only {

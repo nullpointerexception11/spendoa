@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 import { MessageCircle, Globe, Share2, Mail } from 'lucide-react';
 import './Footer.css';
 
@@ -25,8 +26,7 @@ const Footer: React.FC = () => {
             <ul className="footer-links">
               <li><a href="#features">{t('nav.features')}</a></li>
               <li><a href="#testimonials">{t('nav.testimonials')}</a></li>
-              <li><a href="#download">{t('nav.download')}</a></li>
-              <li><a href="#faq">{t('footer.faq')}</a></li>
+              <li><Link to="/faq">{t('footer.faq')}</Link></li>
             </ul>
           </div>
 
@@ -36,15 +36,6 @@ const Footer: React.FC = () => {
               <li><a href="mailto:support@spendoa.com"><Mail size={16} /> support@spendoa.com</a></li>
               <li><a href="#feature-request">{t('footer.feature_request')}</a></li>
             </ul>
-          </div>
-
-          <div className="footer-links-group">
-            <h4 className="footer-heading">{t('footer.social')}</h4>
-            <div className="social-icons">
-              <a href="#" className="social-icon"><MessageCircle size={20} /></a>
-              <a href="#" className="social-icon"><Globe size={20} /></a>
-              <a href="#" className="social-icon"><Share2 size={20} /></a>
-            </div>
           </div>
         </div>
 

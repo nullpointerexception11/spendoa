@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 import { Globe, Menu, X, ChevronDown } from 'lucide-react';
 import './Navbar.css';
 
@@ -17,6 +18,14 @@ const Navbar: React.FC = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  const languages = [
+    { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },
+    { code: 'en', name: 'English', flag: '🇺🇸' },
+    { code: 'es', name: 'Español', flag: '🇪🇸' }
+  ];
+
+  const currentLanguage = languages.find(l => l.code === i18n.language) || languages[0];
+
   const changeLanguage = (lng: string) => {
     i18n.changeLanguage(lng);
     setLangMenuOpen(false);
@@ -25,10 +34,10 @@ const Navbar: React.FC = () => {
   return (
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="container nav-container">
-        <div className="logo">
+        <Link to="/" className="logo">
           <img src="/app_icon.png" alt="Spendoa Logo" className="logo-icon-img" />
           <span className="logo-text">Spendoa</span>
-        </div>
+        </Link>
 
         <div className="nav-actions desktop-only">
           <div className="lang-selector">
@@ -37,13 +46,21 @@ const Navbar: React.FC = () => {
               onClick={() => setLangMenuOpen(!langMenuOpen)}
             >
               <Globe size={18} />
-              <span>{i18n.language.toUpperCase()}</span>
+              <span>{currentLanguage.flag} {currentLanguage.code.toUpperCase()}</span>
               <ChevronDown size={14} />
             </button>
             {langMenuOpen && (
               <div className="lang-dropdown">
-                <button onClick={() => changeLanguage('en')} className={i18n.language === 'en' ? 'active' : ''}>English</button>
-                <button onClick={() => changeLanguage('tr')} className={i18n.language === 'tr' ? 'active' : ''}>Türkçe</button>
+                {languages.map(lang => (
+                  <button 
+                    key={lang.code}
+                    onClick={() => changeLanguage(lang.code)} 
+                    className={i18n.language === lang.code ? 'active' : ''}
+                  >
+                    <span className="lang-flag">{lang.flag}</span>
+                    <span className="lang-name">{lang.name}</span>
+                  </button>
+                ))}
               </div>
             )}
           </div>
@@ -61,10 +78,17 @@ const Navbar: React.FC = () => {
       {mobileMenuOpen && (
         <div className="mobile-menu">
           <div className="mobile-lang-selector">
-            <p>Language / Dil</p>
-            <div className="flex gap-2">
-              <button onClick={() => changeLanguage('en')} className={`btn ${i18n.language === 'en' ? 'btn-primary' : 'btn-secondary'}`}>EN</button>
-              <button onClick={() => changeLanguage('tr')} className={`btn ${i18n.language === 'tr' ? 'btn-primary' : 'btn-secondary'}`}>TR</button>
+            <p>Language / Dil / Idioma</p>
+            <div className="flex gap-2 flex-wrap justify-center">
+              {languages.map(lang => (
+                <button 
+                  key={lang.code}
+                  onClick={() => changeLanguage(lang.code)} 
+                  className={`btn ${i18n.language === lang.code ? 'btn-primary' : 'btn-secondary'}`}
+                >
+                  {lang.flag} {lang.code.toUpperCase()}
+                </button>
+              ))}
             </div>
           </div>
         </div>

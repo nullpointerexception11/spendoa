@@ -1,0 +1,115 @@
+1. GENEL
+
+Soru: Does Spendoa work offline? Cevap: Yes. Spendoa works offline-first. Even
+without an internet connection, you can view your past transactions and reports.
+For security reasons, adding new transactions requires an internet connection.
+
+Soru: Where is my data stored? Cevap: Your data is stored securely on encrypted
+remote servers. Even if you change devices, you can access your data by logging
+into your account.
+
+Soru: What permissions does Spendoa require? Cevap: It only requests
+Notification permission to send you reminders. Spendoa does not require camera,
+contacts, or location permissions.
+
+Soru: Does the app support widgets? Cevap: Yes. You can add the Spendoa widget
+to your home screen to quickly check your account status and remaining limit
+without opening the app.
+
+2. HESAPLAR
+
+Soru: Can I create multiple accounts? Cevap: Yes. You can create unlimited
+Account, Credit Card, Bank Account, Cash, or Asset accounts.
+
+Soru: Why does the data change when I switch accounts? Cevap: Each account in
+Spendoa is independent. When you switch accounts, that account's currency,
+statistics, and history are loaded.
+
+Soru: Can I transfer money between accounts? Cevap: Yes. You can easily add
+transfer transactions, such as transferring funds from your cash account to your
+credit card or savings account.
+
+Soru: Can I use different currencies? Cevap: Yes. You can set a different
+currency for each account. During transfers, Spendoa fetches live exchange rates
+and converts automatically.
+
+Soru: How often are exchange rates updated? Cevap: Exchange rates used in
+transfers are fetched in real-time from global markets as long as you have an
+internet connection.
+
+Soru: Can I customize the currency format? Cevap: Yes. You can customize
+thousand separators (., , space), decimal separators, and the number of decimal
+digits.
+
+Soru: Why is the month start date different for each account? Cevap: Your salary
+date or billing cycle may differ. For this reason, each account has its own
+independent "Month Start" setting.
+
+Soru: Can I use a shared account? Cevap: Spendoa is designed for individual use.
+However, you can manage the same data with your partner if you both sign in
+using the same Google account.
+
+3. İŞLEMLER
+
+Soru: How do I add installment purchases? Cevap: When adding an expense, select
+"Installment Payment." Enter the total amount and the number of installments;
+the app will automatically split the amount across months.
+
+Soru: How can I track my debts and receivables? Cevap: Use the "Debts &
+Receivables" module in the menu. Add a person to easily track how much you owe
+or are owed.
+
+Soru: Can I only make expenses from the account? Cevap: No. You can add Income,
+Expense, or Transfer transactions using any Credit Card, Cash, or Asset account.
+
+Soru: How should I record credit card payments? Cevap: Record them as a
+"Transfer" transaction. Transfer money from your bank account to your Credit
+Card account so your expenses are not counted twice.
+
+Soru: How do I correct a wrong transaction? Cevap: Tap the transaction to open
+its details screen. Use the "Edit" or "Delete" options to update it.
+
+Soru: What happens if I exceed my account? Cevap: The app will not block you,
+but it will warn you. Your account bar turns red to help you plan better for the
+next month.
+
+Soru: How do recurring transactions work? Cevap: Each account has its own
+recurring income/expense rules. When the scheduled date arrives, the transaction
+is added automatically.
+
+4. GÜVENLİK
+
+Soru: Can I lock the app? Cevap: Yes. You can enable Biometric Authentication
+(Fingerprint/Face ID) in Settings. This feature is free to use.
+
+Soru: What is amount masking? Cevap: Amount Masking hides your balances in
+crowded environments so others cannot see them. This feature is free.
+
+Soru: Is my data safe? Cevap: Yes. Your data is protected with industry-standard
+encryption. No one, including the Spendoa team, can access your information.
+
+Soru: Can I delete my account? Cevap: Yes. Go to Settings > Account > Delete My
+Account to permanently delete your account and all associated data.
+
+5. PREMIUM
+
+Soru: What are the benefits of Premium? Cevap: Premium includes features like
+Financial Score, Future Forecast, Advanced Reports, and Unlimited Accounts.
+Basic accounting features remain free.
+
+Soru: What is Lifetime? Cevap: Lifetime is a one-time purchase. Pay once and get
+lifetime access to all Premium features.
+
+Soru: Why do prices vary by country? Cevap: Our pricing is automatically
+optimized based on income levels, inflation, and local currency purchasing
+power.
+
+Soru: What if the price seems high? Cevap: You can request a price review
+through the Feedback section in the app or by emailing us.
+
+Soru: I purchased Premium but features are not activated? Cevap: Tap "Restore
+Purchases" in Settings. If the issue persists, please contact support.
+
+Soru: How do I cancel my subscription? Cevap: Cancel via Google Play Store >
+Subscriptions. Your benefits will continue until the end of the current billing
+period.

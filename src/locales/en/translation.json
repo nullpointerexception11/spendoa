@@ -5,7 +5,7 @@
     "download": "Download"
   },
   "hero": {
-    "headline": "Easy money management for budget, income, and expense tracking",
+    "headline": "Easy money management for your budget",
     "subheadline": "Control your daily expenses, plan your budget, and start saving. If you find yourself wondering \"Where did my money go?\" at the end of the month, Spendoa is for you.",
     "cta": "Download Now"
   },
@@ -40,35 +40,35 @@
     }
   },
   "highlights": {
-    "title": "💡 HIGHLIGHTED FEATURES",
+    "title": "Highlighted features",
     "subtitle": "AI-powered tools designed to simplify your expense tracking and budget planning.",
     "scanning": {
-      "title": "📸 Smart Receipt Scanning",
+      "title": "Smart receipt scanning",
       "description": "No need to type everything manually. Just take a photo, and expenses are automatically detected and categorized."
     },
     "analysis": {
-      "title": "📊 Detailed Expense Tracking & Analysis",
+      "title": "Detailed expense tracking & analysis",
       "description": "Analyze food, transport, rent, and all other expenses with charts. Spot unnecessary spending and save money."
     },
     "shared": {
-      "title": "🤝 Joint Budget Management",
+      "title": "Joint budget management",
       "description": "Create a shared budget with family members, your spouse, or friends. Track income and expenses together."
     },
     "alerts": {
-      "title": "🔔 Budget Limits & Alerts",
+      "title": "Budget limits & alerts",
       "description": "Set category-based budgets. Get notified as you approach your spending limit and stay in control."
     },
     "score": {
-      "title": "🏆 Financial Score & Savings Tracking",
+      "title": "Financial score & savings tracking",
       "description": "Analyze your spending habits and improve your financial situation. Reach your goals by saving more."
     },
     "security": {
-      "title": "🛡️ Secure Data Storage",
+      "title": "Secure data storage",
       "description": "All your financial data is stored securely. Your data belongs only to you and is protected at the highest level."
     }
   },
   "whoIsItFor": {
-    "title": "🎯 WHO IS THIS APP FOR?",
+    "title": "Who is this app for?",
     "items": {
       "i1": "Those looking for a budget tracking app",
       "i2": "Those who want to track income and expenses",
@@ -81,7 +81,7 @@
     }
   },
   "whyUs": {
-    "title": "📊 WHY THIS APP?",
+    "title": "Why this app?",
     "items": {
       "i1": "Easy and clear usage",
       "i2": "Fast income and expense logging",
@@ -119,5 +119,125 @@
     "feature_request": "Feature Request",
     "social": "Follow Us",
     "copyright": "© 2026 Spendoa. All rights reserved."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Spendoa",
+    "back": "Back to Home",
+    "categories": {
+      "general": {
+        "title": "General",
+        "items": [
+          {
+            "q": "Does Spendoa work offline?",
+            "a": "Yes. Spendoa works offline-first. Even without an internet connection, you can view your past transactions and reports. For security reasons, adding new transactions requires an internet connection."
+          },
+          {
+            "q": "Where is my data stored?",
+            "a": "Your data is stored securely on encrypted remote servers. Even if you change devices, you can access your data by logging into your account."
+          },
+          {
+            "q": "What permissions does Spendoa require?",
+            "a": "It only requests Notification permission to send you reminders. Spendoa does not require camera, contacts, or location permissions."
+          },
+          {
+            "q": "Does the app support widgets?",
+            "a": "Yes. You can add the Spendoa widget to your home screen to quickly check your account status and remaining limit without opening the app."
+          }
+        ]
+      },
+      "accounts": {
+        "title": "Accounts",
+        "items": [
+          {
+            "q": "Can I create multiple accounts?",
+            "a": "Yes. You can create unlimited Account, Credit Card, Bank Account, Cash, or Asset accounts."
+          },
+          {
+            "q": "Why does the data change when I switch accounts?",
+            "a": "Each account in Spendoa is independent. When you switch accounts, that account's currency, statistics, and history are loaded."
+          },
+          {
+            "q": "Can I transfer money between accounts?",
+            "a": "Yes. You can easily add transfer transactions, such as transferring funds from your cash account to your credit card or savings account."
+          },
+          {
+            "q": "Can I use different currencies?",
+            "a": "Yes. You can set a different currency for each account. During transfers, Spendoa fetches live exchange rates and converts automatically."
+          },
+          {
+            "q": "How often are exchange rates updated?",
+            "a": "Exchange rates used in transfers are fetched in real-time from global markets as long as you have an internet connection."
+          },
+          {
+            "q": "Can I use a shared account?",
+            "a": "Spendoa is designed for individual use. However, you can manage the same data with your partner if you both sign in using the same Google account."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Transactions",
+        "items": [
+          {
+            "q": "How do I add installment purchases?",
+            "a": "When adding an expense, select 'Installment Payment.' Enter the total amount and the number of installments; the app will automatically split the amount across months."
+          },
+          {
+            "q": "How can I track my debts and receivables?",
+            "a": "Use the 'Debts & Receivables' module in the menu. Add a person to easily track how much you owe or are owed."
+          },
+          {
+            "q": "How should I record credit card payments?",
+            "a": "Record them as a 'Transfer' transaction. Transfer money from your bank account to your Credit Card account so your expenses are not counted twice."
+          },
+          {
+            "q": "How do recurring transactions work?",
+            "a": "Each account has its own recurring income/expense rules. When the scheduled date arrives, the transaction is added automatically."
+          }
+        ]
+      },
+      "security": {
+        "title": "Security",
+        "items": [
+          {
+            "q": "Can I lock the app?",
+            "a": "Yes. You can enable Biometric Authentication (Fingerprint/Face ID) in Settings. This feature is free to use."
+          },
+          {
+            "q": "What is amount masking?",
+            "a": "Amount Masking hides your balances in crowded environments so others cannot see them. This feature is free."
+          },
+          {
+            "q": "Is my data safe?",
+            "a": "Yes. Your data is protected with industry-standard encryption. No one, including the Spendoa team, can access your information."
+          },
+          {
+            "q": "Can I delete my account?",
+            "a": "Yes. Go to Settings > Account > Delete My Account to permanently delete your account and all associated data."
+          }
+        ]
+      },
+      "premium": {
+        "title": "Premium",
+        "items": [
+          {
+            "q": "What are the benefits of Premium?",
+            "a": "Premium includes features like Financial Score, Future Forecast, Advanced Reports, and Unlimited Accounts. Basic accounting features remain free."
+          },
+          {
+            "q": "What is Lifetime?",
+            "a": "Lifetime is a one-time purchase. Pay once and get lifetime access to all Premium features."
+          },
+          {
+            "q": "I purchased Premium but features are not activated?",
+            "a": "Tap 'Restore Purchases' in Settings. If the issue persists, please contact support."
+          },
+          {
+            "q": "How do I cancel my subscription?",
+            "a": "Cancel via Google Play Store > Subscriptions. Your benefits will continue until the end of the current billing period."
+          }
+        ]
+      }
+    }
   }
 }
