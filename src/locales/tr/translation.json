@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "testimonials": "Yorumlar",
+    "download": "İndir"
+  },
+  "hero": {
+    "headline": "Bütçe takip, gelir gider takibi ve harcama takibi için kolay para yönetimi",
+    "subheadline": "Günlük masraflarınızı kontrol edin, bütçenizi planlayın ve tasarruf etmeye başlayın. Ay sonunda “Param nereye gitti?” diye düşünüyorsanız, Spendoa tam size göre.",
+    "cta": "Hemen İndirin"
+  },
+  "highlights": {
+    "title": "💡 ÖNE ÇIKAN ÖZELLİKLER",
+    "subtitle": "Harcama takibi ve bütçe planlamasını kolaylaştıran yapay zeka destekli araçlar.",
+    "scanning": {
+      "title": "📸 Akıllı Fiş Tarama",
+      "description": "Fişlerinizi tek tek yazmanıza gerek yok. Fotoğrafını çekin, harcamalar otomatik olarak algılanıp kategorize edilsin."
+    },
+    "analysis": {
+      "title": "📊 Detaylı Harcama Takibi ve Analiz",
+      "description": "Gıda, ulaşım, kira ve diğer tüm giderlerinizi grafiklerle analiz edin. Gereksiz harcamaları fark edin ve tasarruf edin."
+    },
+    "shared": {
+      "title": "🤝 Ortak Bütçe Yönetimi",
+      "description": "Aile üyeleri, eşiniz veya arkadaşlarınızla ortak bütçe oluşturun. Gelir gider takibini birlikte yapın ve şeffaf yönetin."
+    },
+    "alerts": {
+      "title": "🔔 Bütçe Limit ve Uyarılar",
+      "description": "Kategori bazlı bütçe belirleyin. Harcama limitine yaklaştığınızda bildirim alın ve bütçenizi aşmadan kontrol sağlayın."
+    },
+    "score": {
+      "title": "🏆 Finansal Skor ve Tasarruf Takibi",
+      "description": "Harcama alışkanlıklarınızı analiz edin ve finansal durumunuzu geliştirin. Daha fazla tasarruf yaparak hedeflerinize ulaşın."
+    },
+    "security": {
+      "title": "🛡️ Güvenli Veri Saklama",
+      "description": "Tüm finansal verileriniz güvenli şekilde saklanır. Verileriniz sadece size aittir ve en üst düzeyde korunur."
+    }
+  },
+  "whoIsItFor": {
+    "title": "🎯 BU UYGULAMA KİMLER İÇİN?",
+    "items": {
+      "i1": "Bütçe takip uygulaması arayanlar",
+      "i2": "Gelir gider takibi yapmak isteyenler",
+      "i3": "Harcama takibi ile masraf kontrolü yapmak isteyenler",
+      "i4": "Masraf takibi yapmak isteyenler",
+      "i5": "Bütçe planlayıcı arayan kullanıcılar",
+      "i6": "Para yönetimi uygulaması arayanlar",
+      "i7": "Borç ve fatura takibi yapmak isteyenler",
+      "i8": "Tasarruf etmek ve para biriktirmek isteyenler"
+    }
+  },
+  "whyUs": {
+    "title": "📊 NEDEN BU UYGULAMA?",
+    "items": {
+      "i1": "Kolay ve anlaşılır kullanım",
+      "i2": "Hızlı gelir gider kaydı",
+      "i3": "Detaylı harcama analizi",
+      "i4": "Hızlı ve anlaşılır bütçe takip deneyimi",
+      "i5": "Güçlü para yönetimi araçları"
+    }
+  },
+  "testimonials": {
+    "title": "Binlerce kullanıcı tarafından seviliyor",
+    "subtitle": "Finansal hayatlarını Spendoa ile dönüştüren insanların arasına katılın.",
+    "users": {
+      "u1": {
+        "text": "Yapay zeka asistanı tam anlamıyla ezber bozuyor! Bana nerede fazla harcadığımı söylüyor ve uygulanabilir tavsiyeler veriyor.",
+        "name": "Selin Y.",
+        "role": "Onaylı Kullanıcı"
+      },
+      "u2": {
+        "text": "Fiş tarama özelliği bana çok zaman kazandırıyor. Şimdiye kadar kullandığım en iyi harcama takip uygulaması.",
+        "name": "Murat K.",
+        "role": "Onaylı Kullanıcı"
+      },
+      "u3": {
+        "text": "Sonunda hem düzenli aboneliklerimi hem de tasarruf hedeflerimi tek bir temiz arayüzde yöneten bir uygulama.",
+        "name": "Ayşe D.",
+        "role": "Onaylı Kullanıcı"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa, harcamalarınızı takip etmenize, aboneliklerinizi yönetmenize ve tasarruf etmenize yardımcı olan yapay zeka destekli bir finansal yönetim uygulamasıdır.",
+    "navigation": "Menü",
+    "contact": "İletişim",
+    "faq": "S.S.S.",
+    "feature_request": "Özellik İsteği",
+    "social": "Bizi Takip Edin",
+    "copyright": "© 2026 Spendoa. Tüm hakları saklıdır."
+  }
+}

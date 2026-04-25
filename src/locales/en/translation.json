@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "features": "Features",
+    "testimonials": "Reviews",
+    "download": "Download"
+  },
+  "hero": {
+    "headline": "Easy money management for budget, income, and expense tracking",
+    "subheadline": "Control your daily expenses, plan your budget, and start saving. If you find yourself wondering \"Where did my money go?\" at the end of the month, Spendoa is for you.",
+    "cta": "Download Now"
+  },
+  "highlights": {
+    "title": "💡 HIGHLIGHTED FEATURES",
+    "subtitle": "AI-powered tools designed to simplify your expense tracking and budget planning.",
+    "scanning": {
+      "title": "📸 Smart Receipt Scanning",
+      "description": "No need to type everything manually. Just take a photo, and expenses are automatically detected and categorized."
+    },
+    "analysis": {
+      "title": "📊 Detailed Expense Tracking & Analysis",
+      "description": "Analyze food, transport, rent, and all other expenses with charts. Spot unnecessary spending and save money."
+    },
+    "shared": {
+      "title": "🤝 Joint Budget Management",
+      "description": "Create a shared budget with family members, your spouse, or friends. Track income and expenses together."
+    },
+    "alerts": {
+      "title": "🔔 Budget Limits & Alerts",
+      "description": "Set category-based budgets. Get notified as you approach your spending limit and stay in control."
+    },
+    "score": {
+      "title": "🏆 Financial Score & Savings Tracking",
+      "description": "Analyze your spending habits and improve your financial situation. Reach your goals by saving more."
+    },
+    "security": {
+      "title": "🛡️ Secure Data Storage",
+      "description": "All your financial data is stored securely. Your data belongs only to you and is protected at the highest level."
+    }
+  },
+  "whoIsItFor": {
+    "title": "🎯 WHO IS THIS APP FOR?",
+    "items": {
+      "i1": "Those looking for a budget tracking app",
+      "i2": "Those who want to track income and expenses",
+      "i3": "Users wanting to control costs via expense tracking",
+      "i4": "Individuals tracking daily expenses",
+      "i5": "Users looking for a budget planner",
+      "i6": "Those seeking money management applications",
+      "i7": "People wanting to track debts and bills",
+      "i8": "Individuals aiming to save and accumulate money"
+    }
+  },
+  "whyUs": {
+    "title": "📊 WHY THIS APP?",
+    "items": {
+      "i1": "Easy and clear usage",
+      "i2": "Fast income and expense logging",
+      "i3": "Detailed expense analysis",
+      "i4": "Quick and intuitive budget tracking",
+      "i5": "Powerful money management tools"
+    }
+  },
+  "testimonials": {
+    "title": "Loved by thousands of users",
+    "subtitle": "Join people who have transformed their financial lives with Spendoa.",
+    "users": {
+      "u1": {
+        "text": "The AI assistant is a total game changer! It tells me exactly where I'm overspending and gives actionable advice.",
+        "name": "Selin Y.",
+        "role": "Verified User"
+      },
+      "u2": {
+        "text": "The receipt scanning feature saves me so much time. It's by far the best expense tracking app I've used.",
+        "name": "Murat K.",
+        "role": "Verified User"
+      },
+      "u3": {
+        "text": "Finally, an app that manages both my recurring subscriptions and savings goals in one clean interface.",
+        "name": "Ayşe D.",
+        "role": "Verified User"
+      }
+    }
+  },
+  "footer": {
+    "description": "Spendoa is an AI-powered financial management app that helps you track expenses, manage subscriptions, and save money.",
+    "navigation": "Menu",
+    "contact": "Contact",
+    "faq": "F.A.Q.",
+    "feature_request": "Feature Request",
+    "social": "Follow Us",
+    "copyright": "© 2026 Spendoa. All rights reserved."
+  }
+}
