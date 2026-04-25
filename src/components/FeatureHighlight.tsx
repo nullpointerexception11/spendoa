@@ -13,7 +13,7 @@ const FeatureHighlight: React.FC = () => {
     },
     {
       id: 'analysis',
-      image: '/image-1.png'
+      image: '/image-9.png'
     },
     {
       id: 'shared',
@@ -25,11 +25,23 @@ const FeatureHighlight: React.FC = () => {
     },
     {
       id: 'score',
-      image: '/image-4.png'
+      image: '/image-8.png'
     },
     {
       id: 'security',
       image: '/image-7.png'
+    },
+    {
+      id: 'reports',
+      image: '/image-10.png'
+    },
+    {
+      id: 'darkmode',
+      image: '/feature_darkmode.png'
+    },
+    {
+      id: 'reminders',
+      image: '/image-6.png'
     }
   ];
 
@@ -37,7 +49,7 @@ const FeatureHighlight: React.FC = () => {
     <section className="section highlight-section">
       <div className="container">
         <div className="section-header text-center mb-16">
-          <motion.h2 
+          <motion.h2
             className="section-title"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -45,7 +57,7 @@ const FeatureHighlight: React.FC = () => {
           >
             {t('highlights.title')}
           </motion.h2>
-          <motion.p 
+          <motion.p
             className="section-subtitle"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -58,8 +70,8 @@ const FeatureHighlight: React.FC = () => {
 
         <div className="highlights-grid">
           {highlights.map((item, index) => (
-            <motion.div 
-              key={item.id} 
+            <motion.div
+              key={item.id}
               className="highlight-card"
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}

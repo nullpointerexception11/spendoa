@@ -65,6 +65,18 @@
     "security": {
       "title": "Secure data storage",
       "description": "All your financial data is stored securely. Your data belongs only to you and is protected at the highest level."
+    },
+    "reports": {
+      "title": "Advanced financial reports",
+      "description": "Analyze your income and expenses with detailed weekly, monthly, or yearly charts. Get a clear view of your financial health."
+    },
+    "darkmode": {
+      "title": "Eye-friendly dark mode",
+      "description": "Use Spendoa comfortably at any time of day. Save battery life and protect your eyes with full dark mode support."
+    },
+    "reminders": {
+      "title": "Personalized reminders",
+      "description": "Never miss a bill payment or budget limit again. Stay in control of your financial calendar with smart notifications."
     }
   },
   "whoIsItFor": {
