@@ -9,6 +9,36 @@
     "subheadline": "Günlük masraflarınızı kontrol edin, bütçenizi planlayın ve tasarruf etmeye başlayın. Ay sonunda “Param nereye gitti?” diye düşünüyorsanız, Spendoa tam size göre.",
     "cta": "Hemen İndirin"
   },
+  "features": {
+    "title": "Paranızı yönetmek için ihtiyacınız olan her şey",
+    "subtitle": "Finansal hayatınız üzerinde tam kontrol sağlamanız için tasarlanmış güçlü araçları keşfedin.",
+    "items": {
+      "ai": {
+        "title": "Spendoa Yapay Zeka Asistanı",
+        "description": "Harcamalarınız hakkında bilgi almak ve kişiselleştirilmiş tasarruf ipuçları için yapay zekanızla sohbet edin."
+      },
+      "receipts": {
+        "title": "Akıllı Fiş Tarama",
+        "description": "Yapay zeka desteğiyle fişlerinizi tarayın ve harcama detaylarınızı otomatik olarak doldurun."
+      },
+      "goals": {
+        "title": "Tasarruf Hedefleri",
+        "description": "Özel tasarruf hedefleri belirleyin ve finansal özgürlüğe doğru ilerlemenizi görsel olarak takip edin."
+      },
+      "recurring": {
+        "title": "Düzenli İşlemler",
+        "description": "Aktif aboneliklerinizi ve düzenli aylık faturalarınızı tek bir yerden kolayca yönetin."
+      },
+      "installments": {
+        "title": "Taksitler ve Krediler",
+        "description": "Taksitli alışverişlerinizi, kredilerinizi, borç ve alacaklarınızı eksiksiz bir şekilde takip edin."
+      },
+      "budgets": {
+        "title": "Akıllı Bütçeler",
+        "description": "Aylık harcamalarınızı etkili bir şekilde izlemek ve kontrol etmek için kategori bazlı bütçeler oluşturun."
+      }
+    }
+  },
   "highlights": {
     "title": "💡 ÖNE ÇIKAN ÖZELLİKLER",
     "subtitle": "Harcama takibi ve bütçe planlamasını kolaylaştıran yapay zeka destekli araçlar.",

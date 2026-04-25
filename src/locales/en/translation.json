@@ -9,6 +9,36 @@
     "subheadline": "Control your daily expenses, plan your budget, and start saving. If you find yourself wondering \"Where did my money go?\" at the end of the month, Spendoa is for you.",
     "cta": "Download Now"
   },
+  "features": {
+    "title": "Everything you need to manage your money",
+    "subtitle": "Discover powerful tools designed to give you full control over your financial life.",
+    "items": {
+      "ai": {
+        "title": "Spendoa AI Assistant",
+        "description": "Chat with your personal AI to get insights about your spending and personalized savings tips."
+      },
+      "receipts": {
+        "title": "Smart Receipt Scanning",
+        "description": "Scan your receipts with AI and automatically fill in your expense details."
+      },
+      "goals": {
+        "title": "Savings Goals",
+        "description": "Set custom savings goals and visually track your progress towards financial freedom."
+      },
+      "recurring": {
+        "title": "Recurring Transactions",
+        "description": "Easily manage your active subscriptions and regular monthly bills in one place."
+      },
+      "installments": {
+        "title": "Installments & Loans",
+        "description": "Track your installment purchases, loans, debts and receivables seamlessly."
+      },
+      "budgets": {
+        "title": "Smart Budgets",
+        "description": "Create category-based budgets to effectively track and control your monthly spending."
+      }
+    }
+  },
   "highlights": {
     "title": "💡 HIGHLIGHTED FEATURES",
     "subtitle": "AI-powered tools designed to simplify your expense tracking and budget planning.",
