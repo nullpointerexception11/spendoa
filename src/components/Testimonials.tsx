@@ -62,6 +62,8 @@ const Testimonials: React.FC = () => {
     return () => controller.abort();
   }, []);
 
+  const displayCount = 6; // Display first 6 reviews
+
   const formatDate = useCallback((dateStr: string) => {
     const date = new Date(dateStr);
     return date.toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' });
