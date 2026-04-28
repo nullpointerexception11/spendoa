@@ -1,10 +1,10 @@
-import React from 'react';
+import { memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { Bot, Scan, Target, Repeat, CreditCard, Wallet } from 'lucide-react';
 import './Features.css';
 
-const FeaturesGrid: React.FC = () => {
+const FeaturesGrid = memo(() => {
   const { t } = useTranslation();
 
   const features = [
@@ -60,6 +60,8 @@ const FeaturesGrid: React.FC = () => {
       </div>
     </section>
   );
-};
+});
+
+FeaturesGrid.displayName = 'FeaturesGrid';
 
 export default FeaturesGrid;

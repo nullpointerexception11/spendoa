@@ -98,6 +98,16 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #e5e7eb;
 }
 
+/* Lazy Loading Images */
+img.loading {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+img.loaded {
+  opacity: 1;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .section {

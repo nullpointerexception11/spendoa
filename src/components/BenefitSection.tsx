@@ -1,14 +1,14 @@
-import React from 'react';
+import { memo, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { CheckCircle2, Target } from 'lucide-react';
 import './BenefitSection.css';
 
-const BenefitSection: React.FC = () => {
+const BenefitSection = memo(() => {
   const { t } = useTranslation();
 
-  const whoItems = Object.keys(t('whoIsItFor.items', { returnObjects: true }));
-  const whyItems = Object.keys(t('whyUs.items', { returnObjects: true }));
+  const whoItems = useMemo(() => Object.keys(t('whoIsItFor.items', { returnObjects: true })), [t]);
+  const whyItems = useMemo(() => Object.keys(t('whyUs.items', { returnObjects: true })), [t]);
 
   return (
     <section className="section benefits-section">
@@ -59,6 +59,8 @@ const BenefitSection: React.FC = () => {
       </div>
     </section>
   );
-};
+});
+
+BenefitSection.displayName = 'BenefitSection';
 
 export default BenefitSection;

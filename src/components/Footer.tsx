@@ -1,10 +1,10 @@
-import React from 'react';
+import { memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
-import { MessageCircle, Globe, Share2, Mail } from 'lucide-react';
+import { Mail } from 'lucide-react';
 import './Footer.css';
 
-const Footer: React.FC = () => {
+const Footer = memo(() => {
   const { t } = useTranslation();
 
   return (
@@ -46,6 +46,8 @@ const Footer: React.FC = () => {
       </div>
     </footer>
   );
-};
+});
+
+Footer.displayName = 'Footer';
 
 export default Footer;

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, memo } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -11,7 +11,7 @@ interface FAQItemProps {
   index: number;
 }
 
-const FAQAccordionItem: React.FC<FAQItemProps> = ({ q, a, index }) => {
+const FAQAccordionItem = memo<FAQItemProps>(({ q, a, index }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -44,9 +44,11 @@ const FAQAccordionItem: React.FC<FAQItemProps> = ({ q, a, index }) => {
       </AnimatePresence>
     </motion.div>
   );
-};
+});
 
-const FAQ: React.FC = () => {
+FAQAccordionItem.displayName = 'FAQAccordionItem';
+
+const FAQComponent: React.FC = () => {
   const { t } = useTranslation();
 
   // Get categories from translation
@@ -99,5 +101,9 @@ const FAQ: React.FC = () => {
     </section>
   );
 };
+
+const FAQ = memo(FAQComponent);
+
+FAQ.displayName = 'FAQ';
 
 export default FAQ;

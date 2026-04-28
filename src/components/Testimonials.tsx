@@ -1,7 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo, useCallback, memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { Star, Download } from 'lucide-react';
+import LazyImage from './LazyImage';
 import './Testimonials.css';
 
 interface Review {
@@ -24,27 +25,49 @@ interface AppInfo {
   maxInstalls: number;
 }
 
+// Memoized star rating component
+const StarRating = memo<{ score: number; size?: number }>(({ score, size = 16 }) => (
+  <div className="stars">
+    {[0, 1, 2, 3, 4].map((i) => (
+      <Star
+        key={i}
+        size={size}
+        fill={i < score ? '#fbbf24' : 'transparent'}
+        color={i < score ? '#fbbf24' : '#d1d5db'}
+      />
+    ))}
+  </div>
+));
+
 const Testimonials: React.FC = () => {
   const { t } = useTranslation();
   const [reviews, setReviews] = useState<Review[]>([]);
   const [appInfo, setAppInfo] = useState<AppInfo | null>(null);
 
   useEffect(() => {
-    fetch('/reviews.json')
-      .then(res => res.json())
-      .then((data: Review[]) => setReviews(data))
-      .catch(err => console.error('Failed to load reviews:', err));
+    const controller = new AbortController();
+    
+    Promise.all([
+      fetch('/reviews.json', { signal: controller.signal })
+        .then(res => res.json())
+        .then((data: Review[]) => setReviews(data))
+        .catch(err => !controller.signal.aborted && console.error('Failed to load reviews:', err)),
+      
+      fetch('/app-info.json', { signal: controller.signal })
+        .then(res => res.json())
+        .then((data: AppInfo) => setAppInfo(data))
+        .catch(err => !controller.signal.aborted && console.error('Failed to load app info:', err)),
+    ]);
 
-    fetch('/app-info.json')
-      .then(res => res.json())
-      .then((data: AppInfo) => setAppInfo(data))
-      .catch(err => console.error('Failed to load app info:', err));
+    return () => controller.abort();
   }, []);
 
-  const formatDate = (dateStr: string) => {
+  const formatDate = useCallback((dateStr: string) => {
     const date = new Date(dateStr);
     return date.toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' });
-  };
+  }, []);
+
+  const displayedReviews = useMemo(() => reviews.slice(0, displayCount), [reviews, displayCount]);
 
   return (
     <section id="testimonials" className="section testimonials-section">
@@ -70,7 +93,7 @@ const Testimonials: React.FC = () => {
         </div>
 
         <div className="testimonials-grid">
-          {reviews.map((review, index) => (
+          {displayedReviews.map((review, index) => (
             <motion.div 
               key={review.id}
               className="testimonial-card"
@@ -80,16 +103,7 @@ const Testimonials: React.FC = () => {
               transition={{ delay: index * 0.08 }}
             >
               <div className="review-header">
-                <div className="stars">
-                  {Array.from({ length: 5 }).map((_, i) => (
-                    <Star
-                      key={i}
-                      size={16}
-                      fill={i < review.score ? '#fbbf24' : 'transparent'}
-                      color={i < review.score ? '#fbbf24' : '#d1d5db'}
-                    />
-                  ))}
-                </div>
+                <StarRating score={review.score} size={16} />
                 <span className="review-date">{formatDate(review.date)}</span>
               </div>
 
@@ -117,21 +131,12 @@ const Testimonials: React.FC = () => {
             viewport={{ once: true }}
             transition={{ delay: 0.3 }}
           >
-            <img src="/google-play-icon.svg" alt="Google Play" className="playstore-card-icon" />
+            <LazyImage src="/google-play-icon.svg" alt="Google Play" className="playstore-card-icon" />
             <div className="playstore-card-info">
               <span className="playstore-card-label">Google Play</span>
               <div className="playstore-card-rating">
                 <span className="playstore-card-score">{appInfo.score}</span>
-                <div className="stars">
-                  {Array.from({ length: 5 }).map((_, i) => (
-                    <Star
-                      key={i}
-                      size={14}
-                      fill={i < Math.round(appInfo.score || 0) ? '#fbbf24' : 'transparent'}
-                      color={i < Math.round(appInfo.score || 0) ? '#fbbf24' : '#d1d5db'}
-                    />
-                  ))}
-                </div>
+                <StarRating score={Math.round(appInfo.score || 0)} size={14} />
                 <span className="playstore-card-reviews">({appInfo.ratings})</span>
               </div>
             </div>
@@ -154,4 +159,6 @@ const Testimonials: React.FC = () => {
   );
 };
 
-export default Testimonials;
+Testimonials.displayName = 'Testimonials';
+
+export default memo(Testimonials);

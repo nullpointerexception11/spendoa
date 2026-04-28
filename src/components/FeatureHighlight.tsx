@@ -1,9 +1,10 @@
-import React from 'react';
+import { memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
+import LazyImage from './LazyImage';
 import './FeatureHighlight.css';
 
-const FeatureHighlight: React.FC = () => {
+const FeatureHighlight = memo(() => {
   const { t } = useTranslation();
 
   const highlights = [
@@ -79,7 +80,7 @@ const FeatureHighlight: React.FC = () => {
               transition={{ duration: 0.5, delay: index * 0.1 }}
             >
               <div className="highlight-visual">
-                <img src={item.image} alt={t(`highlights.${item.id}.title`)} className="feature-screenshot" />
+                <LazyImage src={item.image} alt={t(`highlights.${item.id}.title`)} className="feature-screenshot" />
               </div>
               <div className="highlight-content">
                 <h3 className="highlight-title">{t(`highlights.${item.id}.title`)}</h3>
@@ -91,6 +92,8 @@ const FeatureHighlight: React.FC = () => {
       </div>
     </section>
   );
-};
+});
+
+FeatureHighlight.displayName = 'FeatureHighlight';
 
 export default FeatureHighlight;

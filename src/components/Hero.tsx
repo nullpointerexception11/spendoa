@@ -1,10 +1,10 @@
-import React from 'react';
+import { memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { Download } from 'lucide-react';
+import LazyImage from './LazyImage';
 import './Hero.css';
 
-const Hero: React.FC = () => {
+const Hero = memo(() => {
   const { t } = useTranslation();
 
   return (
@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
           
           <div className="hero-actions">
             <a href="https://play.google.com/store/apps/details?id=com.oguzdogdu.budgetpulse&hl=tr" target="_blank" rel="noopener noreferrer" className="google-play-btn">
-              <img 
+              <LazyImage 
                 src="/google-play-download.svg" 
                 alt="Get it on Google Play" 
                 style={{ height: '56px' }}
@@ -42,12 +42,14 @@ const Hero: React.FC = () => {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <div className="hero-image-container">
-            <img src="/hero.svg" alt="Spendoa App" className="hero-image-large" />
+            <LazyImage src="/hero.svg" alt="Spendoa App" className="hero-image-large" />
           </div>
         </motion.div>
       </div>
     </section>
   );
-};
+});
+
+Hero.displayName = 'Hero';
 
 export default Hero;
